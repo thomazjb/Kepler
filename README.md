@@ -1,6 +1,6 @@
 # ATENTION - THIS A FORK
 
-THIS REPO IS NOT OFFICIALLY RELATED TO THE ORIGINAL REPO!
+THIS REPO IS NOT OFFICIALLY RELATED TO THE ORIGINAL REPO! IF YOU WANT THE ORIGINAL ARCHIVES YOU CAN FOUND AT https://github.com/Quackster/Kepler
 
 # Kepler
 
@@ -70,13 +70,13 @@ The server has many features added, and a lot of configuration settings. Most of
 ## Cloning this repository
 
 ```
-$ git clone --recursive https://github.com/Quackster/Kepler
+$ git clone --recursive https://github.com/thomazjb/Kepler
 ```
 
 **or**
 
 ```
-$ git clone https://github.com/Quackster/Kepler
+$ git clone https://github.com/thomazjb/Kepler
 $ git submodule update --init --recursive
 ```
 
