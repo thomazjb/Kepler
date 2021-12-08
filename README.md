@@ -1,3 +1,7 @@
+# ATENTION - THIS A FORK
+
+THIS REPO IS NOT OFFICIALLY RELATED TO THE ORIGINAL REPO!
+
 # Kepler
 
 A small TCP server written in Java powered by Netty, an asynchronous networking library. Kepler is a Habbo Hotel emulator that is designed to fully emulate the v14 version from 2007 era, and upwards. The server is written in Java (JDK 11) and it's using various libraries, which means it's multiplatform, as in supports a wide range of operating systems. Windows, Linux distros, etc.
