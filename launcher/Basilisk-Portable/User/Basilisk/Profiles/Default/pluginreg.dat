@@ -1,0 +1,26 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.18f|$
+Arch|x86-msvc|$
+
+[PLUGINS]
+np32dsw.dll|$
+C:\www\CODEHOTEL\launcher\BrowserPlugins\Shockwave\Adobe\Director\np32dsw.dll|$
+12.3.5.205|$
+1586755276625|0|0|0|$
+Adobe Shockwave for Director Netscape plug-in, version 12.3.5.205|$
+Shockwave for Director|$
+1
+0|application/x-director|Shockwave Movie|dir,dxr,dcr|$
+NPSWF32_32_0_0_270.dll|$
+C:\www\CODEHOTEL\launcher\BrowserPlugins\Flash\NPSWF32_32_0_0_270.dll|$
+32.0.0.270|$
+1577289110138|0|0|0|$
+Shockwave Flash 32.0 r0|$
+Shockwave Flash|$
+2
+0|application/x-shockwave-flash|Adobe Flash movie|swf|$
+1|application/futuresplash|FutureSplash movie|spl|$
+
+[INVALID]

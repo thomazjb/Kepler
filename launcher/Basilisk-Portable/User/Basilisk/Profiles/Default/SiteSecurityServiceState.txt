@@ -1,0 +1,5 @@
+links.duckduckgo.com:HSTS	0	18966	1670207312075,1,0
+external-content.duckduckgo.com:HSTS	0	18966	1670207312304,1,0
+duckduckgo.com:HSTS	0	18966	1670207312184,1,0
+improving.duckduckgo.com:HSTS	0	18966	1670207313186,1,0
+www.adobe.com:HSTS	0	18965	1638739972474,1,0

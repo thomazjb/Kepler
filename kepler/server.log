@@ -1,0 +1,1118 @@
+2021-12-04T01:23:43.567 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T01:23:43.568 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T01:23:43.584 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T01:23:43.644 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T01:23:43.644 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T01:23:43.644 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T01:23:43.801 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T01:23:43.846 - [org.alexdev.kepler.game.recycler.RecyclerManager] - Recycler is disabled
+2021-12-04T01:23:44.293 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 127.0.0.1:12322
+2021-12-04T01:23:44.306 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 127.0.0.1:12309
+2021-12-04T01:23:44.319 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on 127.0.0.1:12321
+2021-12-04T01:28:52.731 - [org.alexdev.kepler.Kepler] - Shutting down server!
+2021-12-04T01:29:08.769 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T01:29:08.769 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T01:29:08.787 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T01:29:08.849 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T01:29:08.849 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T01:29:08.849 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T01:29:09.153 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T01:29:09.635 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 127.0.0.1:12322
+2021-12-04T01:29:09.647 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 127.0.0.1:12309
+2021-12-04T01:29:09.661 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on 127.0.0.1:12321
+2021-12-04T01:30:27.151 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [1] Connection from 127.0.0.1 
+2021-12-04T01:30:27.151 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 127.0.0.1 
+2021-12-04T01:30:27.388 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - Kicking off connection from 127.0.0.1 to make room for new connection
+2021-12-04T01:30:27.392 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [2] Connection from 127.0.0.1 
+2021-12-04T01:30:27.396 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [2] Disconnection from 127.0.0.1 
+2021-12-04T01:30:47.494 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 127.0.0.1 
+2021-12-04T01:31:44.726 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [1] Disconnection from 127.0.0.1 
+2021-12-04T01:38:18.467 - [org.alexdev.kepler.Kepler] - Shutting down server!
+2021-12-04T01:38:34.784 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T01:38:34.785 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T01:38:34.803 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T01:38:34.863 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T01:38:34.863 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T01:38:34.864 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T01:38:35.021 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T01:38:35.508 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 127.0.0.1:12322
+2021-12-04T01:38:35.521 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 127.0.0.1:12309
+2021-12-04T01:38:35.534 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on 127.0.0.1:12321
+2021-12-04T01:44:30.481 - [org.alexdev.kepler.Kepler] - Shutting down server!
+2021-12-04T01:44:42.834 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T01:44:42.835 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T01:44:42.853 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T01:44:42.914 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T01:44:42.914 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T01:44:42.914 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T01:44:43.077 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T01:44:43.558 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 127.0.0.1:12322
+2021-12-04T01:44:43.571 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 127.0.0.1:12309
+2021-12-04T01:44:43.585 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on 127.0.0.1:12321
+2021-12-04T01:59:04.972 - [org.alexdev.kepler.Kepler] - Shutting down server!
+2021-12-04T02:00:02.888 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T02:00:02.889 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T02:00:02.907 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T02:00:02.967 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T02:00:02.967 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T02:00:02.968 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T02:00:03.125 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T02:00:03.610 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 127.0.0.1:12322
+2021-12-04T02:00:03.622 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 127.0.0.1:12309
+2021-12-04T02:00:03.636 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on 127.0.0.1:12321
+2021-12-04T02:08:43.105 - [org.alexdev.kepler.Kepler] - Shutting down server!
+2021-12-04T02:08:54.567 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T02:08:54.568 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T02:08:54.586 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T02:08:54.646 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T02:08:54.646 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T02:08:54.646 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T02:08:54.805 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T02:08:55.311 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 127.0.0.1:12309
+2021-12-04T02:09:08.537 - [org.alexdev.kepler.Kepler] - Shutting down server!
+2021-12-04T02:09:41.409 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T02:09:41.410 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T02:09:41.428 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T02:09:41.488 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T02:09:41.488 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T02:09:41.488 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T02:09:41.649 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T02:09:42.134 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 127.0.0.1:12322
+2021-12-04T02:09:42.147 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 127.0.0.1:12309
+2021-12-04T02:09:42.161 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on 127.0.0.1:12321
+2021-12-04T02:19:55.741 - [org.alexdev.kepler.Kepler] - Shutting down server!
+2021-12-04T02:25:28.767 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T02:25:28.768 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T02:25:28.786 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T02:25:28.849 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T02:25:28.849 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T02:25:28.849 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T02:25:29.006 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T02:25:29.495 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 127.0.0.1:12322
+2021-12-04T02:25:29.508 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 127.0.0.1:12309
+2021-12-04T02:25:29.522 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v21 is listening on 127.0.0.1:12321
+2021-12-04T02:34:35.168 - [org.alexdev.kepler.Kepler] - Shutting down server!
+2021-12-04T02:35:17.188 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T02:35:17.189 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T02:35:17.207 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T02:35:17.267 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T02:35:17.268 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T02:35:17.268 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T02:35:17.435 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T02:35:17.920 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 127.0.0.1:12322
+2021-12-04T02:35:17.932 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 127.0.0.1:12309
+2021-12-04T02:35:17.945 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v18 is listening on 127.0.0.1:12321
+2021-12-04T11:51:52.809 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T11:51:52.809 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T11:51:52.825 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T11:51:52.887 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T11:51:52.887 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T11:51:52.887 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T11:51:53.075 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T11:51:53.575 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 127.0.0.1:12322
+2021-12-04T11:51:53.590 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 127.0.0.1:12309
+2021-12-04T11:51:53.606 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v18 is listening on 127.0.0.1:12321
+2021-12-04T12:02:54.301 - [org.alexdev.kepler.Kepler] - Shutting down server!
+2021-12-04T12:03:02.931 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T12:03:02.932 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T12:03:02.950 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T12:03:03.015 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T12:03:03.015 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T12:03:03.015 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T12:03:03.175 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T12:03:03.650 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 127.0.0.1:12322
+2021-12-04T12:03:03.668 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 127.0.0.1:12309
+2021-12-04T12:03:03.681 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v18 is listening on 127.0.0.1:12321
+2021-12-04T12:17:03.170 - [com.zaxxer.hikari.pool.PoolBase] - processing - Failed to validate connection org.mariadb.jdbc.MariaDbConnection@278064eb (Connection.setNetworkTimeout cannot be called on a closed connection). Possibly consider using a shorter maxLifetime value.
+2021-12-04T12:19:09.816 - [org.alexdev.kepler.Kepler] - Shutting down server!
+2021-12-04T12:20:06.414 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T12:20:06.414 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T12:20:06.430 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T12:20:06.508 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T12:20:06.508 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T12:20:06.508 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T12:20:06.680 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T12:20:06.727 - [org.alexdev.kepler.game.recycler.RecyclerManager] - Recycler is disabled
+2021-12-04T12:20:07.164 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 127.0.0.1:12322
+2021-12-04T12:20:07.180 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 127.0.0.1:12309
+2021-12-04T12:20:07.195 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v18 is listening on 127.0.0.1:12321
+2021-12-04T12:21:18.047 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T12:21:18.047 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T12:21:18.062 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T12:21:18.125 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T12:21:18.125 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T12:21:18.125 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T12:21:18.468 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T12:21:18.968 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 127.0.0.1:12322
+2021-12-04T12:21:18.968 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 127.0.0.1:12309
+2021-12-04T12:21:18.984 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v18 is listening on 127.0.0.1:12321
+2021-12-04T12:26:26.525 - [org.alexdev.kepler.Kepler] - Shutting down server!
+2021-12-04T12:26:43.573 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T12:26:43.573 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T12:26:43.588 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T12:26:43.651 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T12:26:43.651 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T12:26:43.651 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T12:26:43.838 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T12:26:44.323 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 127.0.0.1:12322
+2021-12-04T12:26:44.338 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 127.0.0.1:12309
+2021-12-04T12:26:44.354 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v18 is listening on 127.0.0.1:12321
+2021-12-04T12:47:53.590 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 0 / @@{1}
+2021-12-04T12:47:53.591 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 127.0.0.1 
+2021-12-04T12:47:53.872 - [Connection 0] - Received (INIT_CRYPTO): 206 / CN 
+2021-12-04T12:47:53.872 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 277 / DUH{1}
+2021-12-04T12:47:54.023 - [Connection 0] - Received (GENERATEKEY): 202 / CJ 
+2021-12-04T12:47:54.024 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 257 / DAQBPAHRAHPB{2}SAIIIQAdd-MM-yyyy{2}KHQBIJH{1}
+2021-12-04T12:48:53.586 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T12:48:53.696 - [Connection 0] - Received (PONG): 196 / CD 
+2021-12-04T12:49:25.199 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 127.0.0.1 
+2021-12-04T12:49:37.754 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 0 / @@{1}
+2021-12-04T12:50:24.165 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 127.0.0.1 
+2021-12-04T12:50:24.247 - [Connection 0] - Received (INIT_CRYPTO): 206 / CN 
+2021-12-04T12:50:24.248 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 277 / DUH{1}
+2021-12-04T12:50:24.408 - [Connection 0] - Received (GENERATEKEY): 202 / CJ 
+2021-12-04T12:50:24.409 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 257 / DAQBPAHRAHPB{2}SAIIIQAdd-MM-yyyy{2}KHQBIJH{1}
+2021-12-04T12:50:37.753 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T12:50:37.818 - [Connection 0] - Received (PONG): 196 / CD 
+2021-12-04T12:51:08.187 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 127.0.0.1 
+2021-12-04T12:53:48.623 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 0 / @@{1}
+2021-12-04T12:53:48.623 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 127.0.0.1 
+2021-12-04T12:53:48.924 - [Connection 0] - Received (INIT_CRYPTO): 206 / CN 
+2021-12-04T12:53:48.924 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 277 / DUH{1}
+2021-12-04T12:53:49.083 - [Connection 0] - Received (GENERATEKEY): 202 / CJ 
+2021-12-04T12:53:49.083 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 257 / DAQBPAHRAHPB{2}SAIIIQAdd-MM-yyyy{2}KHQBIJH{1}
+2021-12-04T12:54:48.624 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T12:54:48.749 - [Connection 0] - Received (PONG): 196 / CD 
+2021-12-04T12:55:48.633 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T12:55:48.664 - [Connection 0] - Received (PONG): 196 / CD 
+2021-12-04T12:56:48.641 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T12:56:48.656 - [Connection 0] - Received (PONG): 196 / CD 
+2021-12-04T12:57:48.645 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T12:57:48.752 - [Connection 0] - Received (PONG): 196 / CD 
+2021-12-04T12:58:20.254 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 127.0.0.1 
+2021-12-04T13:00:39.412 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 0 / @@{1}
+2021-12-04T13:00:39.412 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 127.0.0.1 
+2021-12-04T13:00:39.718 - [Connection 0] - Received (INIT_CRYPTO): 206 / CN 
+2021-12-04T13:00:39.718 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 277 / DUH{1}
+2021-12-04T13:00:39.870 - [Connection 0] - Received (GENERATEKEY): 202 / CJ 
+2021-12-04T13:00:39.870 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 257 / DAQBPAHRAHPB{2}SAIIIQAdd-MM-yyyy{2}KHQBIJH{1}
+2021-12-04T13:01:39.413 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T13:01:39.558 - [Connection 0] - Received (PONG): 196 / CD 
+2021-12-04T13:02:39.414 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T13:02:39.418 - [Connection 0] - Received (PONG): 196 / CD 
+2021-12-04T13:03:39.422 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T13:03:39.581 - [Connection 0] - Received (PONG): 196 / CD 
+2021-12-04T13:04:39.433 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T13:04:39.457 - [Connection 0] - Received (PONG): 196 / CD 
+2021-12-04T13:05:39.434 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T13:05:39.482 - [Connection 0] - Received (PONG): 196 / CD 
+2021-12-04T13:06:39.443 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T13:06:39.537 - [Connection 0] - Received (PONG): 196 / CD 
+2021-12-04T13:07:39.456 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T13:07:39.596 - [Connection 0] - Received (PONG): 196 / CD 
+2021-12-04T13:07:42.906 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 127.0.0.1 
+2021-12-04T13:07:46.851 - [org.alexdev.kepler.Kepler] - Shutting down server!
+2021-12-04T13:09:57.791 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T13:09:57.791 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T13:09:57.807 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T13:09:57.869 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T13:09:57.869 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T13:09:57.869 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T13:09:58.041 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T13:09:58.526 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 127.0.0.1:12322
+2021-12-04T13:09:58.541 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 127.0.0.1:12309
+2021-12-04T13:09:58.557 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on 127.0.0.1:12321
+2021-12-04T13:10:13.831 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 127.0.0.1 
+2021-12-04T13:35:16.775 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 127.0.0.1 
+2021-12-04T13:35:29.802 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 127.0.0.1 
+2021-12-04T13:35:30.631 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 127.0.0.1 
+2021-12-04T13:35:40.604 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 127.0.0.1 
+2021-12-04T13:58:38.095 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 127.0.0.1 
+2021-12-04T13:58:50.620 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 127.0.0.1 
+2021-12-04T14:01:28.181 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 127.0.0.1 
+2021-12-04T14:01:41.861 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 127.0.0.1 
+2021-12-04T14:13:59.299 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 127.0.0.1 
+2021-12-04T14:14:49.082 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 127.0.0.1 
+2021-12-04T19:23:51.176 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T19:23:51.177 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T19:23:51.195 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T19:23:51.258 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T19:23:51.258 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T19:23:51.259 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T19:23:51.434 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T19:23:51.931 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 127.0.0.1:12322
+2021-12-04T19:23:51.945 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 127.0.0.1:12309
+2021-12-04T19:23:51.959 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on 127.0.0.1:12321
+2021-12-04T19:30:12.471 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 127.0.0.1 
+2021-12-04T19:31:22.594 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 127.0.0.1 
+2021-12-04T19:45:14.241 - [org.alexdev.kepler.Kepler] - Shutting down server!
+2021-12-04T19:45:41.965 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T19:45:41.965 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T19:45:41.981 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T19:45:42.043 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T19:45:42.043 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T19:45:42.043 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T19:45:42.200 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T19:45:42.684 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 127.0.0.1:12322
+2021-12-04T19:45:42.700 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 127.0.0.1:12309
+2021-12-04T19:45:42.715 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v21 is listening on 127.0.0.1:12321
+2021-12-04T19:46:35.068 - [org.alexdev.kepler.Kepler] - Shutting down server!
+2021-12-04T20:11:44.597 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T20:11:44.598 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T20:11:44.617 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T20:11:44.664 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T20:11:44.664 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T20:11:44.664 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T20:11:44.845 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T20:11:45.329 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 127.0.0.1:12322
+2021-12-04T20:11:45.349 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 127.0.0.1:12309
+2021-12-04T20:11:45.363 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v21 is listening on 127.0.0.1:12321
+2021-12-04T20:12:23.128 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 127.0.0.1 
+2021-12-04T20:26:00.025 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T20:26:00.027 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T20:26:00.045 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T20:26:00.110 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T20:26:00.111 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T20:26:00.111 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T20:26:00.286 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T20:26:00.767 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 192.168.0.20:12322
+2021-12-04T20:26:00.781 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 192.168.0.20:12309
+2021-12-04T20:26:00.796 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v21 is listening on 192.168.0.20:12321
+2021-12-04T20:27:14.003 - [org.alexdev.kepler.Kepler] - Shutting down server!
+2021-12-04T20:35:47.346 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T20:35:47.346 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T20:35:47.361 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T20:35:47.424 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T20:35:47.424 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T20:35:47.424 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T20:35:47.580 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T20:35:48.064 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 192.168.0.20:12322
+2021-12-04T20:35:48.080 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 192.168.0.20:12309
+2021-12-04T20:35:48.096 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v21 is listening on 192.168.0.20:12321
+2021-12-04T20:39:57.421 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 192.168.0.20 
+2021-12-04T20:40:21.770 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [1] Connection from 192.168.0.36 
+2021-12-04T20:42:21.792 - [org.alexdev.kepler.Kepler] - Shutting down server!
+2021-12-04T20:42:21.812 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [1] Disconnection from 192.168.0.36 
+2021-12-04T20:42:21.814 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 192.168.0.20 
+2021-12-04T20:42:48.401 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T20:42:48.402 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T20:42:48.420 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T20:42:48.480 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T20:42:48.480 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T20:42:48.480 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T20:42:48.647 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T20:42:49.136 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 192.168.0.20:12322
+2021-12-04T20:42:49.152 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 192.168.0.20:12309
+2021-12-04T20:42:49.166 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on 192.168.0.20:12321
+2021-12-04T20:45:18.267 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 192.168.0.20 
+2021-12-04T20:45:36.855 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 192.168.0.20 
+2021-12-04T20:50:09.238 - [org.alexdev.kepler.Kepler] - Shutting down server!
+2021-12-04T20:53:27.743 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T20:53:27.743 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T20:53:27.774 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T20:53:27.821 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T20:53:27.821 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T20:53:27.837 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T20:53:27.993 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T20:53:28.477 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 192.168.0.20:12322
+2021-12-04T20:53:28.493 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 192.168.0.20:12309
+2021-12-04T20:53:28.508 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on 192.168.0.20:12321
+2021-12-04T20:56:11.613 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 192.168.0.20 
+2021-12-04T20:58:22.343 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 192.168.0.20 
+2021-12-04T20:58:31.593 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 192.168.0.36 
+2021-12-04T20:59:43.931 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [1] Connection from 192.168.0.20 
+2021-12-04T21:00:03.962 - [org.alexdev.kepler.Kepler] - Shutting down server!
+2021-12-04T21:00:03.975 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 192.168.0.36 
+2021-12-04T21:00:03.984 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [1] Disconnection from 192.168.0.20 
+2021-12-04T21:00:28.956 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T21:00:28.957 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T21:00:28.975 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T21:00:29.036 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T21:00:29.037 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T21:00:29.037 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T21:00:29.214 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T21:00:29.696 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 192.168.0.20:12322
+2021-12-04T21:00:29.712 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 192.168.0.20:12309
+2021-12-04T21:00:29.726 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on 192.168.0.20:12321
+2021-12-04T21:00:44.527 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 192.168.0.20 
+2021-12-04T21:03:08.027 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T21:03:08.028 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T21:03:08.046 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T21:03:08.106 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T21:03:08.106 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T21:03:08.106 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T21:03:08.279 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T21:03:08.761 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 192.168.0.20:12322
+2021-12-04T21:03:08.774 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 192.168.0.20:12309
+2021-12-04T21:03:08.792 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on 192.168.0.20:12321
+2021-12-04T21:03:23.432 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 192.168.0.20 
+2021-12-04T21:06:27.571 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 192.168.0.20 
+2021-12-04T21:06:42.092 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 192.168.0.20 
+2021-12-04T21:14:40.787 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 192.168.0.20 
+2021-12-04T21:14:54.908 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 192.168.0.20 
+2021-12-04T21:22:36.257 - [org.alexdev.kepler.Kepler] - Shutting down server!
+2021-12-04T21:22:36.257 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 192.168.0.20 
+2021-12-04T21:22:56.571 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T21:22:56.571 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T21:22:56.587 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T21:22:56.649 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T21:22:56.649 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T21:22:56.649 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T21:22:56.806 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T21:22:57.306 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 192.168.0.20:12322
+2021-12-04T21:22:57.321 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 192.168.0.20:12309
+2021-12-04T21:22:57.321 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on 192.168.0.20:12321
+2021-12-04T21:23:16.082 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 192.168.0.20 
+2021-12-04T21:26:07.617 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 192.168.0.20 
+2021-12-04T21:26:56.650 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 192.168.0.20 
+2021-12-04T21:31:17.337 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T21:31:17.339 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T21:31:17.357 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T21:31:17.418 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T21:31:17.419 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T21:31:17.419 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T21:31:17.598 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T21:31:18.087 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 192.168.0.20:12322
+2021-12-04T21:31:18.101 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 192.168.0.20:12309
+2021-12-04T21:31:18.114 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on 192.168.0.20:12321
+2021-12-04T21:32:12.268 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T21:32:12.269 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T21:32:12.287 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T21:32:12.348 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T21:32:12.349 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T21:32:12.349 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T21:32:12.523 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T21:32:13.011 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 192.168.0.20:12322
+2021-12-04T21:32:13.024 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 192.168.0.20:12309
+2021-12-04T21:32:13.037 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on 192.168.0.20:12321
+2021-12-04T21:32:29.482 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 0 / @@{1}
+2021-12-04T21:32:29.484 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 192.168.0.20 
+2021-12-04T21:32:29.758 - [Connection 0] - Received (INIT_CRYPTO): 206 / CN 
+2021-12-04T21:32:29.758 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 277 / DUH{1}
+2021-12-04T21:32:29.916 - [Connection 0] - Received (GENERATEKEY): 202 / CJ 
+2021-12-04T21:32:29.917 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 257 / DAQBPAHPB{2}IIRAHSAIQAdd-MM-yyyy{2}KHQBIJH{1}
+2021-12-04T21:32:29.919 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 8 / @H[100,105,110,115,120,125,130,135,140,145,150,155,160,165,170,175,176,177,178,180,185,190,195,200,205,206,207,210,215,220,225,230,235,240,245,250,255,260,265,266,267,270,275,280,281,285,290,295,300,305,500,505,510,515,520,525,530,535,540,545,550,555,565,570,575,580,585,590,595,596,600,605,610,615,620,625,626,627,630,635,640,645,650,655,660,665,667,669,670,675,680,685,690,695,696,700,705,710,715,720,725,730,735,740]{1}
+2021-12-04T21:32:30.078 - [Connection 0] - Received (TRY_LOGIN): 4 / @D@IVulturnus@Hbola1551 
+2021-12-04T21:32:30.216 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 3 / @C{1}
+2021-12-04T21:32:30.218 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 2 / @Bfuse_login{2}fuse_trade{2}fuse_buy_credits{2}fuse_buy_credits_fuse_login{2}fuse_room_queue_default{2}fuse_mute{2}fuse_kick{2}fuse_receive_calls_for_help{2}fuse_remove_photos{2}fuse_remove_stickies{2}fuse_mod{2}fuse_moderator_access{2}fuse_chat_log{2}fuse_room_alert{2}fuse_room_kick{2}fuse_ignore_room_owner{2}fuse_enter_full_rooms{2}fuse_enter_locked_rooms{2}fuse_see_all_roomowners{2}fuse_search_users{2}fuse_ban{2}fuse_see_chat_log_link{2}fuse_cancel_roomevent{2}fuse_housekeeping_alert{2}fuse_priority_access{2}fuse_use_special_room_layouts{2}fuse_use_club_outfits{2}fuse_use_club_outfits_default{2}fuse_use_club_badge{2}fuse_use_club_dance{2}fuse_habbo_chooser{2}fuse_furni_chooser{2}fuse_extended_buddylist{2}fuse_room_queue_club{2}{1}
+2021-12-04T21:32:30.219 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 229 / CeJHC1{2}HC2{2}HI{1}
+2021-12-04T21:32:30.232 - [Player Vulturnus] - Received (GET_INFO): 7 / @G 
+2021-12-04T21:32:30.233 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 5 / @E1{2}Vulturnus{2}8000318022285152900980301{2}M{2}Developer at Code.sign{2}QAch=s02/250,56,49{2}RA{1}
+2021-12-04T21:32:30.233 - [Player Vulturnus] - Received (GET_CREDITS): 8 / @H 
+2021-12-04T21:32:30.234 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 6 / @F1085.0{2}{1}
+2021-12-04T21:32:30.235 - [Player Vulturnus] - Received (GETAVAILABLEBADGES): 157 / B] 
+2021-12-04T21:32:30.235 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 229 / CeJHC1{2}HC2{2}HI{1}
+2021-12-04T21:32:30.235 - [Player Vulturnus] - Received (GET_SOUND_SETTING): 228 / Cd 
+2021-12-04T21:32:30.236 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 308 / DtIH{1}
+2021-12-04T21:32:30.236 - [Player Vulturnus] - Received (GET_FURNI_RECYCLER_CONFIGURATION): 222 / C^ 
+2021-12-04T21:32:30.237 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 303 / DoI`phBHHRAPEHrclr_chair{2}HII0,0,0{2}PEHrclr_chair{2}HII0,0,0{2}RGHrclr_garden{2}HIK0,0,0{2}RGHrclr_garden{2}HIK0,0,0{2}RLHrclr_sofa{2}HJI0,0,0{2}RLHrclr_sofa{2}HJI0,0,0{2}{1}
+2021-12-04T21:32:30.237 - [Player Vulturnus] - Received (GET_FURNI_RECYCLER_STATUS): 223 / C_ 
+2021-12-04T21:32:30.239 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 304 / DpH{1}
+2021-12-04T21:32:30.240 - [Player Vulturnus] - Received (MESSENGERINIT): 12 / @L 
+2021-12-04T21:32:30.241 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 12 / @LDeveloper at Code.sign{2}XVBPYXVBH{1}
+2021-12-04T21:32:30.241 - [Player Vulturnus] - Received (GET_CLUB): 26 / @Z@Jclub_habbo 
+2021-12-04T21:32:30.242 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 8 / @H[100,105,110,115,120,125,130,135,140,145,150,155,160,165,170,175,176,177,178,180,185,190,195,200,205,206,207,210,215,220,225,230,235,240,245,250,255,260,265,266,267,270,275,280,281,285,290,295,300,305,500,505,510,515,520,525,530,535,540,545,550,555,565,570,575,580,585,590,595,596,600,605,610,615,620,625,626,627,630,635,640,645,650,655,660,665,667,669,670,675,680,685,690,695,696,700,705,710,715,720,725,730,735,740,800,801,802,803,804,805,806,807,808,809,810,811,812,813,814,815,816,817,818,819,820,821,822,823,824,825,826,827,828,829,830,831,832,833,834,835,836,837,838,839,840,841,842,843,844,845,846,847,848,849,850,851,852,853,854,855,856,857,858,859,860,861,862,863,864,865,866,867,868,869,870,871,872,873]{1}
+2021-12-04T21:32:30.242 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 229 / CeJHC1{2}HC2{2}HI{1}
+2021-12-04T21:32:30.242 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 7 / @Gclub_habbo{2}RG[XBJI{1}
+2021-12-04T21:32:30.397 - [Player Vulturnus] - Received (NAVIGATE): 150 / BVHKI 
+2021-12-04T21:32:30.458 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 220 / C\HKHPublic Rooms{2}HHHYzCIWelcome Lounge{2}HPJKwelcome_lounge{2}IHhh_room_nlobby{2}HIZzCITheatredome{2}HPYKtheatredrome{2}JHhh_room_theater{2}HI[zCILibrary{2}HRGKlibrary{2}KHhh_room_library{2}HIQAHEntertainment{2}HHKRAHRestaurants and Cafes{2}HHKSAHLounges and Clubs{2}HHKPBHClub-only Spaces{2}HHKQBHParks and Gardens{2}HHKRBHSwimming Pools{2}HHKSBHThe Lobbies{2}HHKPCHThe Hallways{2}HHKQCHGames{2}HHK{1}
+2021-12-04T21:32:30.458 - [Player Vulturnus] - Received (NAVIGATE): 150 / BVHPAI 
+2021-12-04T21:32:30.460 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 220 / C\HPAJGuest Rooms{2}HHHHQYHStaff HQ{2}HHPAP\HRestaurant, Bar & Night Club Rooms{2}HHPAQ\HTrade floor{2}HHPAR\HChill, Chat & Discussion Rooms{2}HHPAS\HHair Salons & Modelling Rooms{2}HHPAP]HMaze & Theme Park Rooms{2}HHPAQ]HGaming & Race Rooms{2}HHPAR]HHelp Centre Rooms{2}HHPAP^HMiscellaneous{2}HHPA{1}
+2021-12-04T21:32:32.395 - [Player Vulturnus] - Received (GETUSERFLATCATS): 151 / BW 
+2021-12-04T21:32:32.395 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 221 / C]SBJNo category{2}PAGuest Rooms{2}QYStaff HQ{2}P\Restaurant, Bar & Night Club Rooms{2}Q\Trade floor{2}R\Chill, Chat & Discussion Rooms{2}S\Hair Salons & Modelling Rooms{2}P]Maze & Theme Park Rooms{2}Q]Gaming & Race Rooms{2}R]Help Centre Rooms{2}P^Miscellaneous{2}{1}
+2021-12-04T21:32:36.497 - [Player Vulturnus] - Received (SUSERF): 16 / @PVulturnus 
+2021-12-04T21:32:36.498 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 16 / @P1000{9}Code.sign SH{9}Vulturnus{9}open{9}x{9}0{9}25{9}null{9}bobba!{9}{13}{1}
+2021-12-04T21:32:37.435 - [Player Vulturnus] - Received (GETFLATINFO): 21 / @U1000 
+2021-12-04T21:32:37.436 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 54 / @vHHXzCVulturnus{2}model_b{2}Code.sign SH{2}bobba!{2}IHHHQF{1}
+2021-12-04T21:32:37.969 - [Player Vulturnus] - Received (GETINTEREST): 182 / Bvgeneral 
+2021-12-04T21:32:37.970 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 258 / DBH{1}
+2021-12-04T21:32:38.475 - [Player Vulturnus] - Received (ROOM_DIRECTORY): 2 / @B@XzCH 
+2021-12-04T21:32:38.476 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 19 / @S{1}
+2021-12-04T21:32:38.555 - [Player Vulturnus] - Received (TRYFLAT): 57 / @y1000 
+2021-12-04T21:32:38.556 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 41 / @i{1}
+2021-12-04T21:32:38.704 - [Player Vulturnus] - Received (GOTOFLAT): 59 / @{1000 
+2021-12-04T21:32:38.712 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 166 / Bf/client/{2}{1}
+2021-12-04T21:32:38.712 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 69 / AEmodel_b{2} {2}XzC{1}
+2021-12-04T21:32:38.712 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 46 / @nwallpaper/408{1}
+2021-12-04T21:32:38.713 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 46 / @nfloor/401{1}
+2021-12-04T21:32:38.713 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 345 / EYH{1}
+2021-12-04T21:32:38.714 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 370 / Er-1{2}{1}
+2021-12-04T21:32:38.718 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 361 / EicAFDH{1}
+2021-12-04T21:32:38.719 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b67079 0,5,0.0,2,2/{13}{1}
+2021-12-04T21:32:38.859 - [Player Vulturnus] - Received (STOP): 88 / AXCarryItem 
+2021-12-04T21:32:38.904 - [Player Vulturnus] - Received (GETROOMAD): 126 / A~ 
+2021-12-04T21:32:38.904 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 208 / CPH{1}
+2021-12-04T21:32:38.905 - [Player Vulturnus] - Received (G_HMAP): 60 / @| 
+2021-12-04T21:32:38.906 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 31 / @_xxxxxxxxxxxx{13}xxxxx0000000{13}xxxxx0000000{13}xxxxx0000000{13}xxxxx0000000{13}x00000000000{13}x00000000000{13}x00000000000{13}x00000000000{13}x00000000000{13}x00000000000{13}xxxxxxxxxxxx{13}xxxxxxxxxxxx{13}xxxxxxxxxxxx{13}xxxxxxxxxxxx{13}xxxxxxxxxxxx{13}{1}
+2021-12-04T21:32:38.906 - [Player Vulturnus] - Received (G_USRS): 61 / @} 
+2021-12-04T21:32:38.911 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 28 / @\{13}i:67079{13}a:1{13}n:Vulturnus{13}f:8000318022285152900980301{13}s:M{13}l:0 5 0.0{13}c:Developer at Code.sign{13}b:{13}{1}
+2021-12-04T21:32:38.911 - [Player Vulturnus] - Received (G_OBJS): 62 / @~ 
+2021-12-04T21:32:38.912 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 30 / @^H{1}
+2021-12-04T21:32:38.912 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 32 / @`SB11{2}nest{2}QAIIIH0.0{2}0,0,0{2}{2}H{2}13{2}grunge_sign{2}IRAIIJ0.0{2}0,0,0{2}{2}H{2}14{2}grunge_shelf{2}QAJKIJ0.0{2}0,0,0{2}{2}H{2}15{2}grunge_mattress{2}SBPAKIJ0.0{2}0,0,0{2}{2}H{2}16{2}grunge_chair{2}ISAIIJ0.0{2}0,0,0{2}{2}H{2}17{2}grunge_barrel{2}SBIIIH0.0{2}0,0,0{2}{2}H{2}18{2}grunge_bench{2}IPBKIJ0.0{2}0,0,0{2}{2}H{2}19{2}grunge_candle{2}SBRBIIH0.0{2}0,0,0{2}{2}H{2}20{2}duck{2}RBRBIIJ0.0{2}0,0,0{2}{2}H{2}21{2}carpet_polar{2}SAKJKH0.0{2}#FFFFFF,#FFFFFF,#FFFFFF{2}{2}H{2}22{2}camera{2}PBIIIH0.0{2}0,0,0{2}{2}H{2}{1}
+2021-12-04T21:32:38.913 - [Player Vulturnus] - Received (G_ITEMS): 63 / @ 
+2021-12-04T21:32:38.913 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 45 / @m23{9}photo{9} {9}:w=3,4 l=34,52 r{9}04-12-2021 14:22:02{13}hoho{13}{1}
+2021-12-04T21:32:39.014 - [Player Vulturnus] - Received (GET_ALIAS_LIST): 215 / CW 
+2021-12-04T21:32:39.014 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 295 / DgH{1}
+2021-12-04T21:32:39.015 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 297 / DiH{1}
+2021-12-04T21:32:39.077 - [Player Vulturnus] - Received (Unknown): 230 / Cf 
+2021-12-04T21:32:39.078 - [Player Vulturnus] - Received (G_STAT): 64 / A@ 
+2021-12-04T21:32:39.078 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 42 / @j{1}
+2021-12-04T21:32:39.079 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 47 / @o{1}
+2021-12-04T21:32:39.079 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 28 / @\{13}i:67079{13}a:1{13}n:Vulturnus{13}f:8000318022285152900980301{13}s:M{13}l:0 5 0.0{13}c:Developer at Code.sign{13}b:{13}{1}
+2021-12-04T21:32:39.080 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 28 / @\{13}i:67079{13}a:1{13}n:Vulturnus{13}f:8000318022285152900980301{13}s:M{13}l:0 5 0.0{13}c:Developer at Code.sign{13}b:{13}{1}
+2021-12-04T21:32:39.090 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 28 / @\{13}i:98326{13}n:98326{4}Code{13}f:0 10 98A1C5{13}l:5 8 0{13}c:{13}{1}
+2021-12-04T21:32:39.092 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b67079 0,5,0.0,2,2/flatctrl useradmin/{13}98326 5,8,0.0,0,0/{13}{1}
+2021-12-04T21:32:39.219 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b67079 0,5,0.0,2,2/flatctrl useradmin/{13}98326 5,8,0.0,1,0/{13}{1}
+2021-12-04T21:32:39.258 - [Player Vulturnus] - Received (LOOKTO): 79 / AO5 5 
+2021-12-04T21:32:39.260 - [Player Vulturnus] - Received (LOOKTO): 79 / AO5 5 
+2021-12-04T21:32:39.723 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b67079 0,5,0.0,2,2/flatctrl useradmin/{13}{1}
+2021-12-04T21:32:40.225 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 5,8,0.0,0,0/sit 0.0/{13}{1}
+2021-12-04T21:32:40.892 - [Player Vulturnus] - Received (WALK): 75 / AK@A@H 
+2021-12-04T21:32:41.073 - [Player Vulturnus] - Received (WALK): 75 / AK@A@H 
+2021-12-04T21:32:41.219 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b67079 0,5,0.0,2,2/flatctrl useradmin/mv 1,5,0.0/{13}{1}
+2021-12-04T21:32:41.718 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b67079 1,5,0.0,3,3/flatctrl useradmin/mv 2,6,0.0/{13}{1}
+2021-12-04T21:32:42.060 - [Player Vulturnus] - Received (WALK): 75 / AK@A@H 
+2021-12-04T21:32:42.215 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b67079 2,6,0.0,4,4/flatctrl useradmin/mv 2,7,0.0/{13}98326 5,8,0.0,1,0/sit 0.0/{13}{1}
+2021-12-04T21:32:42.229 - [Player Vulturnus] - Received (WALK): 75 / AK@A@H 
+2021-12-04T21:32:42.715 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b67079 2,7,0.0,5,5/flatctrl useradmin/mv 1,8,0.0/{13}{1}
+2021-12-04T21:32:43.213 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b67079 1,8,0.0,2,2/flatctrl useradmin/sit 1.2/{13}{1}
+2021-12-04T21:32:43.715 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 5,8,0.0,1,0/sit 0.0/{13}{1}
+2021-12-04T21:32:44.214 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 5,8,0.0,1,0/sit 0.0/{13}{1}
+2021-12-04T21:32:47.218 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b67079 1,8,0.0,2,2/flatctrl useradmin/sit 1.2/{13}{1}
+2021-12-04T21:32:49.226 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 5,8,0.0,1,0/{13}{1}
+2021-12-04T21:32:50.724 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 5,8,0.0,1,0/{13}{1}
+2021-12-04T21:32:55.225 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 5,8,0.0,1,0/{13}{1}
+2021-12-04T21:33:04.215 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 5,8,0.0,1,0/{13}{1}
+2021-12-04T21:33:04.717 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 5,8,0.0,4,4/mv 5,9,0.0/{13}{1}
+2021-12-04T21:33:05.216 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 5,9,0.0,5,5/mv 4,10,0.0/{13}{1}
+2021-12-04T21:33:05.721 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 4,10,0.0,5,5/{13}{1}
+2021-12-04T21:33:06.218 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 4,10,0.0,0,0/mv 4,9,0.0/{13}{1}
+2021-12-04T21:33:06.714 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 4,9,0.0,0,0/mv 4,8,0.0/{13}{1}
+2021-12-04T21:33:07.227 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 4,8,0.0,0,0/mv 4,7,0.0/{13}{1}
+2021-12-04T21:33:07.726 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 4,7,0.0,7,7/mv 3,6,0.0/{13}{1}
+2021-12-04T21:33:08.215 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 3,6,0.0,7,7/mv 2,5,0.0/{13}{1}
+2021-12-04T21:33:08.716 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,5,0.0,2,2/mv 3,5,0.0/{13}{1}
+2021-12-04T21:33:09.217 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 3,5,0.0,2,2/mv 4,5,0.0/{13}{1}
+2021-12-04T21:33:09.714 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 4,5,0.0,2,2/mv 5,5,0.0/{13}{1}
+2021-12-04T21:33:10.217 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 5,5,0.0,2,2/mv 6,5,0.0/{13}{1}
+2021-12-04T21:33:10.715 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 6,5,0.0,2,2/mv 7,5,0.0/{13}{1}
+2021-12-04T21:33:11.214 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,5,0.0,2,2/mv 8,5,0.0/{13}{1}
+2021-12-04T21:33:11.715 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 8,5,0.0,1,1/mv 9,4,0.0/{13}{1}
+2021-12-04T21:33:12.223 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,4,0.0,1,1/{13}{1}
+2021-12-04T21:33:14.713 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,4,0.0,4,4/mv 9,5,0.0/{13}{1}
+2021-12-04T21:33:15.222 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,5,0.0,4,4/mv 9,6,0.0/{13}{1}
+2021-12-04T21:33:15.718 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,6,0.0,4,4/mv 9,7,0.0/{13}{1}
+2021-12-04T21:33:16.219 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,7,0.0,4,4/mv 9,8,0.0/{13}{1}
+2021-12-04T21:33:16.718 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,8,0.0,5,5/mv 8,9,0.0/{13}{1}
+2021-12-04T21:33:17.224 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 8,9,0.0,5,5/mv 7,10,0.0/{13}{1}
+2021-12-04T21:33:17.720 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,10,0.0,5,5/{13}{1}
+2021-12-04T21:33:20.222 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,10,0.0,0,0/mv 7,9,0.0/{13}{1}
+2021-12-04T21:33:20.715 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,9,0.0,0,0/mv 7,8,0.0/{13}{1}
+2021-12-04T21:33:21.227 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,8,0.0,0,0/mv 7,7,0.0/{13}{1}
+2021-12-04T21:33:21.725 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,7,0.0,0,0/mv 7,6,0.0/{13}{1}
+2021-12-04T21:33:22.212 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,6,0.0,0,0/mv 7,5,0.0/{13}{1}
+2021-12-04T21:33:22.721 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,5,0.0,0,0/mv 7,4,0.0/{13}{1}
+2021-12-04T21:33:23.221 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,4,0.0,0,0/mv 7,3,0.0/{13}{1}
+2021-12-04T21:33:23.717 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,3,0.0,0,0/{13}{1}
+2021-12-04T21:33:26.720 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,3,0.0,1,0/{13}{1}
+2021-12-04T21:33:29.221 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,3,0.0,0,0/lay 0.0 null/{13}{1}
+2021-12-04T21:33:29.470 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T21:33:29.502 - [Player Vulturnus] - Received (PONG): 196 / CD 
+2021-12-04T21:33:30.453 - [Player Vulturnus] - Received (FRIENDLIST_UPDATE): 15 / @O 
+2021-12-04T21:33:30.453 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 13 / @MH{1}
+2021-12-04T21:33:33.219 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,3,0.0,1,0/{13}{1}
+2021-12-04T21:33:47.720 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,3,0.0,1,0/{13}{1}
+2021-12-04T21:33:50.218 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,3,0.0,1,0/{13}{1}
+2021-12-04T21:33:50.718 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,3,0.0,1,0/{13}{1}
+2021-12-04T21:33:53.217 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,3,0.0,1,0/{13}{1}
+2021-12-04T21:33:54.717 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,3,0.0,2,2/mv 8,3,0.0/{13}{1}
+2021-12-04T21:33:55.220 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 8,3,0.0,3,3/mv 9,4,0.0/{13}{1}
+2021-12-04T21:33:55.718 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,4,0.0,3,3/mv 10,5,0.0/{13}{1}
+2021-12-04T21:33:56.217 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 10,5,0.0,3,3/mv 11,6,0.0/{13}{1}
+2021-12-04T21:33:56.720 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 11,6,0.0,2,2/sit 1.0/{13}{1}
+2021-12-04T21:33:57.220 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 11,6,0.0,6,6/mv 10,6,0.0/{13}{1}
+2021-12-04T21:33:57.721 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 10,6,0.0,6,6/mv 9,6,0.0/{13}{1}
+2021-12-04T21:33:58.215 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,6,0.0,6,6/mv 8,6,0.0/{13}{1}
+2021-12-04T21:33:58.721 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 8,6,0.0,6,6/mv 7,6,0.0/{13}{1}
+2021-12-04T21:33:59.217 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,6,0.0,6,6/mv 6,6,0.0/{13}{1}
+2021-12-04T21:33:59.715 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 6,6,0.0,6,6/mv 5,6,0.0/{13}{1}
+2021-12-04T21:34:00.218 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 5,6,0.0,5,5/mv 4,7,0.0/{13}{1}
+2021-12-04T21:34:00.720 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 4,7,0.0,5,5/mv 3,8,0.0/{13}{1}
+2021-12-04T21:34:01.213 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 3,8,0.0,5,5/mv 2,9,0.0/{13}{1}
+2021-12-04T21:34:01.719 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/{13}{1}
+2021-12-04T21:34:02.720 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/lay 0.0 null/{13}{1}
+2021-12-04T21:34:04.720 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/{13}{1}
+2021-12-04T21:34:10.717 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/{13}{1}
+2021-12-04T21:34:11.717 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/{13}{1}
+2021-12-04T21:34:15.214 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/{13}{1}
+2021-12-04T21:34:16.714 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/{13}{1}
+2021-12-04T21:34:20.714 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/{13}{1}
+2021-12-04T21:34:21.214 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/{13}{1}
+2021-12-04T21:34:22.714 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/{13}{1}
+2021-12-04T21:34:25.215 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/{13}{1}
+2021-12-04T21:34:26.215 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/{13}{1}
+2021-12-04T21:34:27.715 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,2,2/mv 3,9,0.0/{13}{1}
+2021-12-04T21:34:28.215 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 3,9,0.0,2,2/mv 4,9,0.0/{13}{1}
+2021-12-04T21:34:28.715 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 4,9,0.0,2,2/mv 5,9,0.0/{13}{1}
+2021-12-04T21:34:29.226 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 5,9,0.0,1,1/mv 6,8,0.0/{13}{1}
+2021-12-04T21:34:29.476 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T21:34:29.507 - [Player Vulturnus] - Received (PONG): 196 / CD 
+2021-12-04T21:34:29.726 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 6,8,0.0,1,1/mv 7,7,0.0/{13}{1}
+2021-12-04T21:34:30.226 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,7,0.0,1,1/mv 8,6,0.0/{13}{1}
+2021-12-04T21:34:30.460 - [Player Vulturnus] - Received (FRIENDLIST_UPDATE): 15 / @O 
+2021-12-04T21:34:30.460 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 13 / @MH{1}
+2021-12-04T21:34:30.726 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 8,6,0.0,1,1/mv 9,5,0.0/{13}{1}
+2021-12-04T21:34:31.226 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,5,0.0,1,1/{13}{1}
+2021-12-04T21:34:36.715 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,5,0.0,1,1/{13}{1}
+2021-12-04T21:34:37.215 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,5,0.0,1,1/lay 0.0 null/{13}{1}
+2021-12-04T21:34:40.715 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,5,0.0,1,1/{13}{1}
+2021-12-04T21:34:42.715 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,5,0.0,1,1/{13}{1}
+2021-12-04T21:34:51.225 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,5,0.0,1,1/{13}{1}
+2021-12-04T21:34:53.225 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,5,0.0,1,1/{13}{1}
+2021-12-04T21:34:54.216 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,5,0.0,1,1/{13}{1}
+2021-12-04T21:34:54.716 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,5,0.0,1,1/{13}{1}
+2021-12-04T21:34:56.216 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,5,0.0,6,6/mv 8,5,0.0/{13}{1}
+2021-12-04T21:34:56.716 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 8,5,0.0,6,6/{13}{1}
+2021-12-04T21:34:58.216 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 8,5,0.0,1,1/mv 9,4,0.0/{13}{1}
+2021-12-04T21:34:58.716 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,4,0.0,1,1/{13}{1}
+2021-12-04T21:34:59.716 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,4,0.0,1,1/mv 10,3,0.0/{13}{1}
+2021-12-04T21:35:00.216 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 10,3,0.0,1,1/mv 11,2,0.0/{13}{1}
+2021-12-04T21:35:00.716 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 11,2,0.0,1,1/{13}{1}
+2021-12-04T21:35:01.716 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 11,2,0.0,5,5/sit 0.0/{13}{1}
+2021-12-04T21:35:06.714 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 11,2,0.0,5,5/{13}{1}
+2021-12-04T21:35:14.716 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 11,2,0.0,5,5/{13}{1}
+2021-12-04T21:35:20.216 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 11,2,0.0,5,5/{13}{1}
+2021-12-04T21:35:24.717 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 11,2,0.0,5,5/{13}{1}
+2021-12-04T21:35:26.217 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 11,2,0.0,5,5/mv 10,3,0.0/{13}{1}
+2021-12-04T21:35:26.717 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 10,3,0.0,5,5/mv 9,4,0.0/{13}{1}
+2021-12-04T21:35:27.217 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,4,0.0,5,5/mv 8,5,0.0/{13}{1}
+2021-12-04T21:35:27.717 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 8,5,0.0,5,5/{13}{1}
+2021-12-04T21:35:28.217 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 8,5,0.0,6,6/mv 7,5,0.0/{13}{1}
+2021-12-04T21:35:28.717 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,5,0.0,6,6/mv 6,5,0.0/{13}{1}
+2021-12-04T21:35:29.212 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 6,5,0.0,5,5/mv 5,6,0.0/{13}{1}
+2021-12-04T21:35:29.478 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T21:35:29.556 - [Player Vulturnus] - Received (PONG): 196 / CD 
+2021-12-04T21:35:29.712 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 24 / @XbE@FGrrrr....{2}{1}
+2021-12-04T21:35:29.712 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 5,6,0.0,5,5/mv 4,7,0.0/{13}{1}
+2021-12-04T21:35:30.212 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b67079 1,8,0.0,1,2/flatctrl useradmin/sit 1.2/{13}98326 4,7,0.0,5,5/mv 3,8,0.0/{13}{1}
+2021-12-04T21:35:30.462 - [Player Vulturnus] - Received (FRIENDLIST_UPDATE): 15 / @O 
+2021-12-04T21:35:30.462 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 13 / @MH{1}
+2021-12-04T21:35:30.712 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 3,8,0.0,5,5/mv 2,9,0.0/{13}{1}
+2021-12-04T21:35:31.212 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/{13}{1}
+2021-12-04T21:35:31.712 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/{13}{1}
+2021-12-04T21:35:32.225 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/lay 0.0 null/{13}{1}
+2021-12-04T21:35:32.718 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/lay 0.0 null/{13}{1}
+2021-12-04T21:35:35.717 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/{13}{1}
+2021-12-04T21:35:36.217 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/{13}{1}
+2021-12-04T21:35:37.217 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b67079 1,8,0.0,2,2/flatctrl useradmin/sit 1.2/{13}{1}
+2021-12-04T21:35:37.717 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 24 / @XbE@FGrrrr....{2}{1}
+2021-12-04T21:35:38.217 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b67079 1,8,0.0,3,2/flatctrl useradmin/sit 1.2/{13}{1}
+2021-12-04T21:35:43.217 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/{13}{1}
+2021-12-04T21:35:45.218 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b67079 1,8,0.0,2,2/flatctrl useradmin/sit 1.2/{13}{1}
+2021-12-04T21:35:45.718 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/{13}{1}
+2021-12-04T21:35:52.215 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/{13}{1}
+2021-12-04T21:35:53.215 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/{13}{1}
+2021-12-04T21:35:54.222 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,5,5/{13}{1}
+2021-12-04T21:36:00.722 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,9,0.0,2,2/mv 3,9,0.0/{13}{1}
+2021-12-04T21:37:16.846 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - Kicking off connection from 192.168.0.20 to make room for new connection
+2021-12-04T21:36:19.874 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 0 / @@{1}
+2021-12-04T21:37:40.641 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 3,9,0.0,2,2/mv 4,9,0.0/{13}{1}
+2021-12-04T21:37:40.642 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [1] Connection from 192.168.0.20 
+2021-12-04T21:37:40.642 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T21:37:40.643 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 4,9,0.0,1,1/mv 5,8,0.0/{13}{1}
+2021-12-04T21:37:40.643 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 5,8,0.0,1,1/mv 6,7,0.0/{13}{1}
+2021-12-04T21:37:40.643 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 6,7,0.0,1,1/mv 7,6,0.0/{13}{1}
+2021-12-04T21:37:40.643 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,6,0.0,1,1/mv 8,5,0.0/{13}{1}
+2021-12-04T21:37:40.643 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 8,5,0.0,6,6/mv 7,5,0.0/{13}{1}
+2021-12-04T21:37:40.644 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,5,0.0,6,6/mv 6,5,0.0/{13}{1}
+2021-12-04T21:37:40.644 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 6,5,0.0,6,6/mv 5,5,0.0/{13}{1}
+2021-12-04T21:37:40.645 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 0 / @@{1}
+2021-12-04T21:37:40.646 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [1] Disconnection from 192.168.0.20 
+2021-12-04T21:37:40.646 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 5,5,0.0,6,6/mv 4,5,0.0/{13}{1}
+2021-12-04T21:37:40.648 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [2] Connection from 192.168.0.20 
+2021-12-04T21:37:40.651 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 4,5,0.0,6,6/mv 3,5,0.0/{13}{1}
+2021-12-04T21:37:40.652 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [2] Disconnection from 192.168.0.20 
+2021-12-04T21:37:40.653 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 3,5,0.0,5,5/mv 2,6,0.0/{13}{1}
+2021-12-04T21:37:40.653 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,6,0.0,5,5/{13}{1}
+2021-12-04T21:37:40.654 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,6,0.0,2,2/mv 3,6,0.0/{13}{1}
+2021-12-04T21:37:40.655 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 3,6,0.0,2,2/mv 4,6,0.0/{13}{1}
+2021-12-04T21:37:40.657 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 4,6,0.0,2,2/mv 5,6,0.0/{13}{1}
+2021-12-04T21:37:40.657 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 5,6,0.0,1,1/mv 6,5,0.0/{13}{1}
+2021-12-04T21:37:40.658 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 6,5,0.0,1,1/mv 7,4,0.0/{13}{1}
+2021-12-04T21:37:40.658 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,4,0.0,1,1/mv 8,3,0.0/{13}{1}
+2021-12-04T21:37:40.659 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 8,3,0.0,1,1/{13}{1}
+2021-12-04T21:37:40.660 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 8,3,0.0,5,5/lay 0.0 null/{13}{1}
+2021-12-04T21:37:40.661 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 8,3,0.0,5,5/{13}{1}
+2021-12-04T21:37:40.661 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 8,3,0.0,5,5/{13}{1}
+2021-12-04T21:37:40.661 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 8,3,0.0,5,5/{13}{1}
+2021-12-04T21:37:40.661 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 8,3,0.0,5,5/{13}{1}
+2021-12-04T21:37:40.662 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 8,3,0.0,5,5/{13}{1}
+2021-12-04T21:37:40.663 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 8,3,0.0,5,5/mv 7,4,0.0/{13}{1}
+2021-12-04T21:37:40.664 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,4,0.0,5,5/mv 6,5,0.0/{13}{1}
+2021-12-04T21:37:40.664 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 6,5,0.0,5,5/mv 5,6,0.0/{13}{1}
+2021-12-04T21:37:40.664 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 5,6,0.0,5,5/{13}{1}
+2021-12-04T21:37:40.664 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 5,6,0.0,5,5/mv 4,7,0.0/{13}{1}
+2021-12-04T21:37:40.664 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 4,7,0.0,5,5/mv 3,8,0.0/{13}{1}
+2021-12-04T21:37:40.665 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 3,8,0.0,5,5/{13}{1}
+2021-12-04T21:37:40.665 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 3,8,0.0,2,2/mv 4,8,0.0/{13}{1}
+2021-12-04T21:37:40.665 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 4,8,0.0,1,1/mv 5,7,0.0/{13}{1}
+2021-12-04T21:37:40.665 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 5,7,0.0,1,1/mv 6,6,0.0/{13}{1}
+2021-12-04T21:37:40.665 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 6,6,0.0,1,1/mv 7,5,0.0/{13}{1}
+2021-12-04T21:37:40.666 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,5,0.0,1,1/mv 8,4,0.0/{13}{1}
+2021-12-04T21:37:40.666 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 8,4,0.0,1,1/mv 9,3,0.0/{13}{1}
+2021-12-04T21:37:40.667 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,3,0.0,1,1/mv 10,2,0.0/{13}{1}
+2021-12-04T21:37:40.667 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 10,2,0.0,1,1/{13}{1}
+2021-12-04T21:37:40.667 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 10,2,0.0,1,1/lay 0.0 null/{13}{1}
+2021-12-04T21:37:40.668 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 10,2,0.0,1,1/{13}{1}
+2021-12-04T21:37:40.668 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 10,2,0.0,1,1/{13}{1}
+2021-12-04T21:37:40.668 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 10,2,0.0,1,1/{13}{1}
+2021-12-04T21:37:40.668 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 10,2,0.0,1,1/{13}{1}
+2021-12-04T21:37:40.668 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 10,2,0.0,1,1/{13}{1}
+2021-12-04T21:37:40.669 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 10,2,0.0,1,1/{13}{1}
+2021-12-04T21:37:40.669 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 10,2,0.0,1,1/{13}{1}
+2021-12-04T21:37:40.669 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 10,2,0.0,1,1/{13}{1}
+2021-12-04T21:37:40.669 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 10,2,0.0,6,6/mv 9,2,0.0/{13}{1}
+2021-12-04T21:37:40.669 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,2,0.0,6,6/mv 8,2,0.0/{13}{1}
+2021-12-04T21:37:40.670 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 8,2,0.0,6,6/mv 7,2,0.0/{13}{1}
+2021-12-04T21:37:40.670 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,2,0.0,6,6/mv 6,2,0.0/{13}{1}
+2021-12-04T21:37:40.670 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 6,2,0.0,6,6/{13}{1}
+2021-12-04T21:37:40.670 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 6,2,0.0,5,6/{13}{1}
+2021-12-04T21:37:40.671 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 6,2,0.0,4,4/mv 6,3,0.0/{13}{1}
+2021-12-04T21:37:40.671 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 6,3,0.0,4,4/mv 6,4,0.0/{13}{1}
+2021-12-04T21:37:40.671 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 6,4,0.0,4,4/mv 6,5,0.0/{13}{1}
+2021-12-04T21:37:40.671 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 6,5,0.0,4,4/mv 6,6,0.0/{13}{1}
+2021-12-04T21:37:40.671 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 6,6,0.0,4,4/mv 6,7,0.0/{13}{1}
+2021-12-04T21:37:40.672 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 6,7,0.0,6,6/mv 5,7,0.0/{13}{1}
+2021-12-04T21:37:40.672 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 5,7,0.0,6,6/mv 4,7,0.0/{13}{1}
+2021-12-04T21:37:40.672 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 4,7,0.0,6,6/mv 3,7,0.0/{13}{1}
+2021-12-04T21:37:40.672 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 3,7,0.0,7,7/mv 2,6,0.0/{13}{1}
+2021-12-04T21:37:40.672 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,6,0.0,7,7/mv 1,5,0.0/{13}{1}
+2021-12-04T21:37:40.673 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 1,5,0.0,3,3/mv 2,6,0.0/{13}{1}
+2021-12-04T21:37:40.673 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,6,0.0,5,5/mv 1,7,0.0/{13}{1}
+2021-12-04T21:37:40.673 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 1,7,0.0,2,2/mv 2,7,0.0/{13}{1}
+2021-12-04T21:37:40.673 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 2,7,0.0,2,2/mv 3,7,0.0/{13}{1}
+2021-12-04T21:37:40.673 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 3,7,0.0,2,2/mv 4,7,0.0/{13}{1}
+2021-12-04T21:37:40.674 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 4,7,0.0,2,2/mv 5,7,0.0/{13}{1}
+2021-12-04T21:37:40.674 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 5,7,0.0,5,5/mv 4,8,0.0/{13}{1}
+2021-12-04T21:37:40.674 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 4,8,0.0,2,2/mv 5,8,0.0/{13}{1}
+2021-12-04T21:37:40.674 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 5,8,0.0,2,2/mv 6,8,0.0/{13}{1}
+2021-12-04T21:37:40.675 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 6,8,0.0,2,2/mv 7,8,0.0/{13}{1}
+2021-12-04T21:37:40.675 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 7,8,0.0,1,1/mv 8,7,0.0/{13}{1}
+2021-12-04T21:37:40.675 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 8,7,0.0,1,1/mv 9,6,0.0/{13}{1}
+2021-12-04T21:37:40.675 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,6,0.0,1,1/mv 10,5,0.0/{13}{1}
+2021-12-04T21:37:40.675 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 10,5,0.0,6,6/mv 9,5,0.0/{13}{1}
+2021-12-04T21:37:40.676 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,5,0.0,4,4/mv 9,6,0.0/{13}{1}
+2021-12-04T21:37:40.676 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 9,6,0.0,3,3/mv 10,7,0.0/{13}{1}
+2021-12-04T21:37:40.676 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 10,7,0.0,3,3/{13}{1}
+2021-12-04T21:37:40.676 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 10,7,0.0,3,3/lay 0.0 null/{13}{1}
+2021-12-04T21:37:40.676 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 10,7,0.0,3,3/{13}{1}
+2021-12-04T21:37:40.677 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 10,7,0.0,3,3/{13}{1}
+2021-12-04T21:37:40.677 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b98326 10,7,0.0,3,3/{13}{1}
+2021-12-04T21:37:40.680 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 192.168.0.20 
+2021-12-04T21:37:49.149 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T21:37:49.150 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T21:37:49.168 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T21:37:49.228 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T21:37:49.228 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T21:37:49.229 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T21:37:49.593 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T21:37:50.073 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 192.168.0.20:12322
+2021-12-04T21:37:50.086 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 192.168.0.20:12309
+2021-12-04T21:37:50.099 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on 192.168.0.20:12321
+2021-12-04T21:38:00.018 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 0 / @@{1}
+2021-12-04T21:38:00.020 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 192.168.0.20 
+2021-12-04T21:38:00.304 - [Connection 0] - Received (INIT_CRYPTO): 206 / CN 
+2021-12-04T21:38:00.305 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 277 / DUH{1}
+2021-12-04T21:38:00.455 - [Connection 0] - Received (GENERATEKEY): 202 / CJ 
+2021-12-04T21:38:00.456 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 257 / DAQBQBIPAHIIRAHSAIPB{2}KHQAdd-MM-yyyy{2}JH{1}
+2021-12-04T21:38:00.457 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 8 / @H[100,105,110,115,120,125,130,135,140,145,150,155,160,165,170,175,176,177,178,180,185,190,195,200,205,206,207,210,215,220,225,230,235,240,245,250,255,260,265,266,267,270,275,280,281,285,290,295,300,305,500,505,510,515,520,525,530,535,540,545,550,555,565,570,575,580,585,590,595,596,600,605,610,615,620,625,626,627,630,635,640,645,650,655,660,665,667,669,670,675,680,685,690,695,696,700,705,710,715,720,725,730,735,740]{1}
+2021-12-04T21:38:00.615 - [Connection 0] - Received (GDATE): 49 / @q 
+2021-12-04T21:38:00.615 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 163 / Bc04.12.2021{1}
+2021-12-04T21:39:00.005 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T21:39:00.126 - [Connection 0] - Received (PONG): 196 / CD 
+2021-12-04T21:39:35.509 - [org.alexdev.kepler.Kepler] - Shutting down server!
+2021-12-04T21:39:35.525 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 192.168.0.20 
+2021-12-04T21:39:42.683 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T21:39:42.683 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T21:39:42.714 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T21:39:42.761 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T21:39:42.761 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T21:39:42.761 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T21:39:42.948 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T21:39:43.433 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 192.168.0.20:12322
+2021-12-04T21:39:43.433 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 192.168.0.20:12309
+2021-12-04T21:39:43.464 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on 192.168.0.20:12321
+2021-12-04T21:39:57.664 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 0 / @@{1}
+2021-12-04T21:39:57.665 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 192.168.0.20 
+2021-12-04T21:39:57.944 - [Connection 0] - Received (INIT_CRYPTO): 206 / CN 
+2021-12-04T21:39:57.944 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 277 / DUH{1}
+2021-12-04T21:39:58.102 - [Connection 0] - Received (GENERATEKEY): 202 / CJ 
+2021-12-04T21:39:58.103 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 257 / DAQBQBIIIRAHPAHPB{2}JHKHSAIQAdd-MM-yyyy{2}{1}
+2021-12-04T21:39:58.104 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 8 / @H[100,105,110,115,120,125,130,135,140,145,150,155,160,165,170,175,176,177,178,180,185,190,195,200,205,206,207,210,215,220,225,230,235,240,245,250,255,260,265,266,267,270,275,280,281,285,290,295,300,305,500,505,510,515,520,525,530,535,540,545,550,555,565,570,575,580,585,590,595,596,600,605,610,615,620,625,626,627,630,635,640,645,650,655,660,665,667,669,670,675,680,685,690,695,696,700,705,710,715,720,725,730,735,740]{1}
+2021-12-04T21:39:58.255 - [Connection 0] - Received (GDATE): 49 / @q 
+2021-12-04T21:39:58.255 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 163 / Bc04.12.2021{1}
+2021-12-04T21:40:15.439 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 192.168.0.20 
+2021-12-04T21:51:48.266 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 0 / @@{1}
+2021-12-04T21:51:48.267 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 192.168.0.20 
+2021-12-04T21:51:48.575 - [Connection 0] - Received (INIT_CRYPTO): 206 / CN 
+2021-12-04T21:51:48.575 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 277 / DUH{1}
+2021-12-04T21:51:48.736 - [Connection 0] - Received (GENERATEKEY): 202 / CJ 
+2021-12-04T21:51:48.736 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 257 / DAQBQBIIIRAHPAHPB{2}JHKHSAIQAdd-MM-yyyy{2}{1}
+2021-12-04T21:51:48.737 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 8 / @H[100,105,110,115,120,125,130,135,140,145,150,155,160,165,170,175,176,177,178,180,185,190,195,200,205,206,207,210,215,220,225,230,235,240,245,250,255,260,265,266,267,270,275,280,281,285,290,295,300,305,500,505,510,515,520,525,530,535,540,545,550,555,565,570,575,580,585,590,595,596,600,605,610,615,620,625,626,627,630,635,640,645,650,655,660,665,667,669,670,675,680,685,690,695,696,700,705,710,715,720,725,730,735,740]{1}
+2021-12-04T21:51:48.896 - [Connection 0] - Received (TRY_LOGIN): 4 / @D@IVulturnus@Hbola1551 
+2021-12-04T21:51:48.940 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 33 / @aLogin incorrect{1}
+2021-12-04T21:51:49.103 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 192.168.0.20 
+2021-12-04T21:51:51.805 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 0 / @@{1}
+2021-12-04T21:51:51.805 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 192.168.0.20 
+2021-12-04T21:51:52.112 - [Connection 0] - Received (INIT_CRYPTO): 206 / CN 
+2021-12-04T21:51:52.112 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 277 / DUH{1}
+2021-12-04T21:51:52.264 - [Connection 0] - Received (GENERATEKEY): 202 / CJ 
+2021-12-04T21:51:52.264 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 257 / DAQBQBIIIRAHPAHPB{2}JHKHSAIQAdd-MM-yyyy{2}{1}
+2021-12-04T21:51:52.266 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 8 / @H[100,105,110,115,120,125,130,135,140,145,150,155,160,165,170,175,176,177,178,180,185,190,195,200,205,206,207,210,215,220,225,230,235,240,245,250,255,260,265,266,267,270,275,280,281,285,290,295,300,305,500,505,510,515,520,525,530,535,540,545,550,555,565,570,575,580,585,590,595,596,600,605,610,615,620,625,626,627,630,635,640,645,650,655,660,665,667,669,670,675,680,685,690,695,696,700,705,710,715,720,725,730,735,740]{1}
+2021-12-04T21:51:52.426 - [Connection 0] - Received (GDATE): 49 / @q 
+2021-12-04T21:51:52.426 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 163 / Bc04.12.2021{1}
+2021-12-04T21:52:10.100 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 192.168.0.20 
+2021-12-04T22:03:33.229 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 0 / @@{1}
+2021-12-04T22:03:33.230 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 192.168.0.20 
+2021-12-04T22:03:33.536 - [Connection 0] - Received (INIT_CRYPTO): 206 / CN 
+2021-12-04T22:03:33.536 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 277 / DUH{1}
+2021-12-04T22:03:33.691 - [Connection 0] - Received (GENERATEKEY): 202 / CJ 
+2021-12-04T22:03:33.691 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 257 / DAQBQBIIIRAHPAHPB{2}JHKHSAIQAdd-MM-yyyy{2}{1}
+2021-12-04T22:03:33.692 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 8 / @H[100,105,110,115,120,125,130,135,140,145,150,155,160,165,170,175,176,177,178,180,185,190,195,200,205,206,207,210,215,220,225,230,235,240,245,250,255,260,265,266,267,270,275,280,281,285,290,295,300,305,500,505,510,515,520,525,530,535,540,545,550,555,565,570,575,580,585,590,595,596,600,605,610,615,620,625,626,627,630,635,640,645,650,655,660,665,667,669,670,675,680,685,690,695,696,700,705,710,715,720,725,730,735,740]{1}
+2021-12-04T22:03:33.849 - [Connection 0] - Received (GDATE): 49 / @q 
+2021-12-04T22:03:33.849 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 163 / Bc04.12.2021{1}
+2021-12-04T22:03:45.604 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 192.168.0.20 
+2021-12-04T22:18:59.925 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T22:18:59.925 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T22:18:59.941 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T22:19:00.003 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T22:19:00.003 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T22:19:00.003 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T22:19:00.175 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T22:19:00.660 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on localhost:12322
+2021-12-04T22:19:00.675 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on localhost:12309
+2021-12-04T22:19:00.691 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on localhost:12321
+2021-12-04T22:19:26.383 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 0 / @@{1}
+2021-12-04T22:19:26.384 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 127.0.0.1 
+2021-12-04T22:19:26.661 - [Connection 0] - Received (INIT_CRYPTO): 206 / CN 
+2021-12-04T22:19:26.661 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 277 / DUH{1}
+2021-12-04T22:19:26.821 - [Connection 0] - Received (GENERATEKEY): 202 / CJ 
+2021-12-04T22:19:26.822 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 257 / DAQBKHQBIJHPAHPB{2}RAHIIQAdd-MM-yyyy{2}SAI{1}
+2021-12-04T22:19:26.823 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 8 / @H[100,105,110,115,120,125,130,135,140,145,150,155,160,165,170,175,176,177,178,180,185,190,195,200,205,206,207,210,215,220,225,230,235,240,245,250,255,260,265,266,267,270,275,280,281,285,290,295,300,305,500,505,510,515,520,525,530,535,540,545,550,555,565,570,575,580,585,590,595,596,600,605,610,615,620,625,626,627,630,635,640,645,650,655,660,665,667,669,670,675,680,685,690,695,696,700,705,710,715,720,725,730,735,740]{1}
+2021-12-04T22:19:26.972 - [Connection 0] - Received (GDATE): 49 / @q 
+2021-12-04T22:19:26.973 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 163 / Bc04.12.2021{1}
+2021-12-04T22:19:47.843 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 127.0.0.1 
+2021-12-04T22:23:27.836 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T22:23:27.837 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T22:23:27.855 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T22:23:27.916 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T22:23:27.916 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T22:23:27.916 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T22:23:28.080 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T22:23:28.588 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 192.168.0.20:12309
+2021-12-04T22:24:49.693 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T22:24:49.694 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T22:24:49.712 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T22:24:49.774 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T22:24:49.774 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T22:24:49.774 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T22:24:49.948 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T22:24:50.429 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 192.168.0.20:12322
+2021-12-04T22:24:50.442 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 192.168.0.20:12309
+2021-12-04T22:24:50.456 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on 192.168.0.20:12321
+2021-12-04T22:24:59.397 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 0 / @@{1}
+2021-12-04T22:24:59.398 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 192.168.0.20 
+2021-12-04T22:24:59.685 - [Connection 0] - Received (INIT_CRYPTO): 206 / CN 
+2021-12-04T22:24:59.685 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 277 / DUH{1}
+2021-12-04T22:24:59.845 - [Connection 0] - Received (GENERATEKEY): 202 / CJ 
+2021-12-04T22:24:59.846 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 257 / DAQBSAIJHPAHIIKHQBIPB{2}QAdd-MM-yyyy{2}RAH{1}
+2021-12-04T22:24:59.847 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 8 / @H[100,105,110,115,120,125,130,135,140,145,150,155,160,165,170,175,176,177,178,180,185,190,195,200,205,206,207,210,215,220,225,230,235,240,245,250,255,260,265,266,267,270,275,280,281,285,290,295,300,305,500,505,510,515,520,525,530,535,540,545,550,555,565,570,575,580,585,590,595,596,600,605,610,615,620,625,626,627,630,635,640,645,650,655,660,665,667,669,670,675,680,685,690,695,696,700,705,710,715,720,725,730,735,740]{1}
+2021-12-04T22:25:00.000 - [Connection 0] - Received (GDATE): 49 / @q 
+2021-12-04T22:25:00.000 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 163 / Bc04.12.2021{1}
+2021-12-04T22:25:40.195 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 192.168.0.20 
+2021-12-04T22:26:54.218 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 0 / @@{1}
+2021-12-04T22:26:54.219 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 192.168.0.20 
+2021-12-04T22:26:54.519 - [Connection 0] - Received (INIT_CRYPTO): 206 / CN 
+2021-12-04T22:26:54.519 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 277 / DUH{1}
+2021-12-04T22:26:54.678 - [Connection 0] - Received (GENERATEKEY): 202 / CJ 
+2021-12-04T22:26:54.678 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 257 / DAQBSAIJHPAHIIKHQBIPB{2}QAdd-MM-yyyy{2}RAH{1}
+2021-12-04T22:26:54.680 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 8 / @H[100,105,110,115,120,125,130,135,140,145,150,155,160,165,170,175,176,177,178,180,185,190,195,200,205,206,207,210,215,220,225,230,235,240,245,250,255,260,265,266,267,270,275,280,281,285,290,295,300,305,500,505,510,515,520,525,530,535,540,545,550,555,565,570,575,580,585,590,595,596,600,605,610,615,620,625,626,627,630,635,640,645,650,655,660,665,667,669,670,675,680,685,690,695,696,700,705,710,715,720,725,730,735,740]{1}
+2021-12-04T22:26:54.829 - [Connection 0] - Received (GDATE): 49 / @q 
+2021-12-04T22:26:54.830 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 163 / Bc04.12.2021{1}
+2021-12-04T22:27:06.146 - [Connection 0] - Received (APPROVENAME): 42 / @j@IVulturnusH 
+2021-12-04T22:27:06.187 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 36 / @dH{1}
+2021-12-04T22:27:25.854 - [Connection 0] - Received (APPROVE_PASSWORD): 203 / CK@IVulturnus@Hbola1551 
+2021-12-04T22:27:25.854 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 282 / DZH{1}
+2021-12-04T22:27:25.924 - [Connection 0] - Received (APPROVEEMAIL): 197 / CE@Uthomaz.jb@hotmail.com 
+2021-12-04T22:27:25.925 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 271 / DO{1}
+2021-12-04T22:27:28.154 - [Connection 0] - Received (REGISTER): 43 / @k@B@IVulturnus@D@Y1150118001270012900121001@E@AM@F@@@G@Uthomaz.jb@hotmail.com@H@J28.01.1994@JA@A@@I@@C@Hbola1551 
+2021-12-04T22:27:29.002 - [Connection 0] - Received (TRY_LOGIN): 4 / @D@IVulturnus@Hbola1551 
+2021-12-04T22:27:29.098 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 3 / @C{1}
+2021-12-04T22:27:29.099 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 2 / @Bfuse_login{2}fuse_trade{2}fuse_buy_credits{2}fuse_buy_credits_fuse_login{2}fuse_room_queue_default{2}{1}
+2021-12-04T22:27:29.100 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 229 / CeHHI{1}
+2021-12-04T22:27:29.203 - [Player Vulturnus] - Received (GET_INFO): 7 / @G 
+2021-12-04T22:27:29.203 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 5 / @E3{2}Vulturnus{2}1150118001270012900121001{2}M{2}de kepler whey{2}H{2}H{1}
+2021-12-04T22:27:29.204 - [Player Vulturnus] - Received (GET_CREDITS): 8 / @H 
+2021-12-04T22:27:29.205 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 6 / @F200.0{2}{1}
+2021-12-04T22:27:29.206 - [Player Vulturnus] - Received (GETAVAILABLEBADGES): 157 / B] 
+2021-12-04T22:27:29.206 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 229 / CeHHI{1}
+2021-12-04T22:27:29.206 - [Player Vulturnus] - Received (GET_SOUND_SETTING): 228 / Cd 
+2021-12-04T22:27:29.207 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 308 / DtIH{1}
+2021-12-04T22:27:29.207 - [Player Vulturnus] - Received (GET_FURNI_RECYCLER_CONFIGURATION): 222 / C^ 
+2021-12-04T22:27:29.208 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 303 / DoI`phBHHRAPEHrclr_chair{2}HII0,0,0{2}PEHrclr_chair{2}HII0,0,0{2}RGHrclr_garden{2}HIK0,0,0{2}RGHrclr_garden{2}HIK0,0,0{2}RLHrclr_sofa{2}HJI0,0,0{2}RLHrclr_sofa{2}HJI0,0,0{2}{1}
+2021-12-04T22:27:29.208 - [Player Vulturnus] - Received (GET_FURNI_RECYCLER_STATUS): 223 / C_ 
+2021-12-04T22:27:29.210 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 304 / DpH{1}
+2021-12-04T22:27:29.210 - [Player Vulturnus] - Received (MESSENGERINIT): 12 / @L 
+2021-12-04T22:27:29.211 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 12 / @LI'm a new user!{2}PYPYXVBH{1}
+2021-12-04T22:27:29.211 - [Player Vulturnus] - Received (GET_CLUB): 26 / @Z@Jclub_habbo 
+2021-12-04T22:27:29.211 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 229 / CeHHI{1}
+2021-12-04T22:27:29.212 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 7 / @Gclub_habbo{2}HHHI{1}
+2021-12-04T22:27:29.367 - [Player Vulturnus] - Received (NAVIGATE): 150 / BVHKI 
+2021-12-04T22:27:29.431 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 220 / C\HKHPublic Rooms{2}HHHYzCIWelcome Lounge{2}HPJKwelcome_lounge{2}IHhh_room_nlobby{2}HIZzCITheatredome{2}HPYKtheatredrome{2}JHhh_room_theater{2}HI[zCILibrary{2}HRGKlibrary{2}KHhh_room_library{2}HIQAHEntertainment{2}HHKRAHRestaurants and Cafes{2}HHKSAHLounges and Clubs{2}HHKPBHClub-only Spaces{2}HHKQBHParks and Gardens{2}HHKRBHSwimming Pools{2}HHKSBHThe Lobbies{2}HHKPCHThe Hallways{2}HHKQCHGames{2}HHK{1}
+2021-12-04T22:27:29.431 - [Player Vulturnus] - Received (NAVIGATE): 150 / BVHPAI 
+2021-12-04T22:27:29.433 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 220 / C\HPAJGuest Rooms{2}HHHHP\HRestaurant, Bar & Night Club Rooms{2}HHPAQ\HTrade floor{2}HHPAR\HChill, Chat & Discussion Rooms{2}HHPAS\HHair Salons & Modelling Rooms{2}HHPAP]HMaze & Theme Park Rooms{2}HHPAQ]HGaming & Race Rooms{2}HHPAR]HHelp Centre Rooms{2}HHPAP^HMiscellaneous{2}HHPA{1}
+2021-12-04T22:27:31.379 - [Player Vulturnus] - Received (GETUSERFLATCATS): 151 / BW 
+2021-12-04T22:27:31.380 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 221 / C]RBJNo category{2}PAGuest Rooms{2}P\Restaurant, Bar & Night Club Rooms{2}Q\Trade floor{2}R\Chill, Chat & Discussion Rooms{2}S\Hair Salons & Modelling Rooms{2}P]Maze & Theme Park Rooms{2}Q]Gaming & Race Rooms{2}R]Help Centre Rooms{2}P^Miscellaneous{2}{1}
+2021-12-04T22:27:36.933 - [Player Vulturnus] - Received (SUSERF): 16 / @PVulturnus 
+2021-12-04T22:27:36.934 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 57 / @yVulturnus{2}{1}
+2021-12-04T22:27:54.223 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T22:27:54.247 - [Player Vulturnus] - Received (PONG): 196 / CD 
+2021-12-04T22:28:24.946 - [Player Vulturnus] - Received (CREATEFLAT): 29 / @]/first floor/Code.sign SH/model_b/open/1 
+2021-12-04T22:28:24.952 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 59 / @{1001{13}Code.sign SH{1}
+2021-12-04T22:28:24.975 - [Player Vulturnus] - Received (SETFLATCAT): 153 / BYYzCP^ 
+2021-12-04T22:28:25.001 - [Player Vulturnus] - Received (SETFLATINFO): 25 / @Y/1001/{13}description=Fala Devs!{13}password={13}allsuperuser=0 
+2021-12-04T22:28:26.233 - [Player Vulturnus] - Received (GETINTEREST): 182 / Bvgeneral 
+2021-12-04T22:28:26.233 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 258 / DBH{1}
+2021-12-04T22:28:26.749 - [Player Vulturnus] - Received (ROOM_DIRECTORY): 2 / @B@YzCH 
+2021-12-04T22:28:26.749 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 19 / @S{1}
+2021-12-04T22:28:26.844 - [Player Vulturnus] - Received (TRYFLAT): 57 / @y1001 
+2021-12-04T22:28:26.845 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 41 / @i{1}
+2021-12-04T22:28:27.003 - [Player Vulturnus] - Received (GOTOFLAT): 59 / @{1001 
+2021-12-04T22:28:27.011 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 166 / Bf/client/{2}{1}
+2021-12-04T22:28:27.011 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 69 / AEmodel_b{2} {2}YzC{1}
+2021-12-04T22:28:27.012 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 345 / EYH{1}
+2021-12-04T22:28:27.013 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 370 / Er-1{2}{1}
+2021-12-04T22:28:27.017 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 361 / Eict_BH{1}
+2021-12-04T22:28:27.018 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 0,5,0.0,2,2/{13}{1}
+2021-12-04T22:28:27.165 - [Player Vulturnus] - Received (STOP): 88 / AXCarryItem 
+2021-12-04T22:28:27.210 - [Player Vulturnus] - Received (GETROOMAD): 126 / A~ 
+2021-12-04T22:28:27.210 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 208 / CPH{1}
+2021-12-04T22:28:27.211 - [Player Vulturnus] - Received (G_HMAP): 60 / @| 
+2021-12-04T22:28:27.211 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 31 / @_xxxxxxxxxxxx{13}xxxxx0000000{13}xxxxx0000000{13}xxxxx0000000{13}xxxxx0000000{13}x00000000000{13}x00000000000{13}x00000000000{13}x00000000000{13}x00000000000{13}x00000000000{13}xxxxxxxxxxxx{13}xxxxxxxxxxxx{13}xxxxxxxxxxxx{13}xxxxxxxxxxxx{13}xxxxxxxxxxxx{13}{1}
+2021-12-04T22:28:27.212 - [Player Vulturnus] - Received (G_USRS): 61 / @} 
+2021-12-04T22:28:27.217 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 28 / @\{13}i:40915{13}a:3{13}n:Vulturnus{13}f:1150118001270012900121001{13}s:M{13}l:0 5 0.0{13}c:de kepler whey{13}b:{13}{1}
+2021-12-04T22:28:27.217 - [Player Vulturnus] - Received (G_OBJS): 62 / @~ 
+2021-12-04T22:28:27.217 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 30 / @^H{1}
+2021-12-04T22:28:27.217 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 32 / @`H{1}
+2021-12-04T22:28:27.218 - [Player Vulturnus] - Received (G_ITEMS): 63 / @ 
+2021-12-04T22:28:27.218 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 45 / @m{1}
+2021-12-04T22:28:27.386 - [Player Vulturnus] - Received (Unknown): 230 / Cf 
+2021-12-04T22:28:27.386 - [Player Vulturnus] - Received (G_STAT): 64 / A@ 
+2021-12-04T22:28:27.387 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 42 / @j{1}
+2021-12-04T22:28:27.387 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 47 / @o{1}
+2021-12-04T22:28:27.388 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 28 / @\{13}i:40915{13}a:3{13}n:Vulturnus{13}f:1150118001270012900121001{13}s:M{13}l:0 5 0.0{13}c:de kepler whey{13}b:{13}{1}
+2021-12-04T22:28:27.388 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 28 / @\{13}i:40915{13}a:3{13}n:Vulturnus{13}f:1150118001270012900121001{13}s:M{13}l:0 5 0.0{13}c:de kepler whey{13}b:{13}{1}
+2021-12-04T22:28:27.392 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 0,5,0.0,2,2/flatctrl useradmin/{13}{1}
+2021-12-04T22:28:27.524 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 0,5,0.0,2,2/flatctrl useradmin/{13}{1}
+2021-12-04T22:28:27.575 - [Player Vulturnus] - Received (LOOKTO): 79 / AO5 5 
+2021-12-04T22:28:27.578 - [Player Vulturnus] - Received (LOOKTO): 79 / AO5 5 
+2021-12-04T22:28:28.026 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 0,5,0.0,2,2/flatctrl useradmin/{13}{1}
+2021-12-04T22:28:28.763 - [Player Vulturnus] - Received (WALK): 75 / AK@D@H 
+2021-12-04T22:28:29.022 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 0,5,0.0,2,2/flatctrl useradmin/mv 1,5,0.0/{13}{1}
+2021-12-04T22:28:29.296 - [Player Vulturnus] - Received (WALK): 75 / AK@F@G 
+2021-12-04T22:28:29.433 - [Player Vulturnus] - Received (FRIENDLIST_UPDATE): 15 / @O 
+2021-12-04T22:28:29.433 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 13 / @MH{1}
+2021-12-04T22:28:29.521 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 1,5,0.0,2,2/flatctrl useradmin/mv 2,5,0.0/{13}{1}
+2021-12-04T22:28:30.021 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 2,5,0.0,2,2/flatctrl useradmin/mv 3,5,0.0/{13}{1}
+2021-12-04T22:28:30.517 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 3,5,0.0,2,2/flatctrl useradmin/mv 4,5,0.0/{13}{1}
+2021-12-04T22:28:31.015 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 4,5,0.0,3,3/flatctrl useradmin/mv 5,6,0.0/{13}{1}
+2021-12-04T22:28:31.514 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 5,6,0.0,3,3/flatctrl useradmin/mv 6,7,0.0/{13}{1}
+2021-12-04T22:28:32.013 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 6,7,0.0,3,3/flatctrl useradmin/{13}{1}
+2021-12-04T22:28:32.363 - [Player Vulturnus] - Received (GCIX): 101 / Aeproduction/en 
+2021-12-04T22:28:32.364 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 126 / A~Frontpage{9}Frontpage{13}Rare{9}Rare{13}Spaces{9}Spaces{13}Teleporters{9}Teleporters{13}Area{9}Area{13}Candy{9}Candy{13}Grunge{9}Grunge{13}Iced{9}Iced{13}Gothic{9}Gothic{13}Lodge{9}Lodge{13}Mode{9}Mode{13}Plastic{9}Plasto{13}Asian{9}Asian{13}Pura{9}Pura{13}Recycler{9}Recycler{13}Romantique{9}Romantique{13}Bathroom{9}Bathroom{13}Plants{9}Plants{13}Rugs{9}Rugs{13}Pets{9}Pets{13}Pet Accessories{9}Pet Accessories{13}Camera{9}Camera{13}Rollers{9}Rollers{13}Sports{9}Sport{13}Trophies{9}Trophies{13}Accessories{9}Accessories{13}Gallery{9}Gallery{13}Flags{9}Flags{13}Habbo Exchange{9}Habbo Exchange{13}Executive{9}Executive{13}Alhambra{9}Alhambra{13}Ambient Trax{9}Ambient Trax{13}Dance Trax{9}Dance Trax{13}Rock Trax{9}Rock Trax{13}SFX Trax{9}SFX Trax{13}Urban Trax{9}Urban Trax{13}Presents{9}Presents{13}Habbo Club{9}Habbo Club{13}{1}
+2021-12-04T22:28:32.517 - [Player Vulturnus] - Received (GCAP): 102 / Afproduction/Frontpage/en 
+2021-12-04T22:28:32.518 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 127 / Ai:Frontpage{13}n:Frontpage{13}l:ctlg_frontpage2{13}g:catal_fp_header{13}e:catal_fp_pic4,catal_fp_pic5,{13}h:Welcome to the Hotel Catalogue. It's packed full of fab things for your room - there's something for everyone! Browse the ranges by clicking the tabs on the right.<br><br>Some ranges are seasonal, so check back regularly for new items.<br><br>We regularly{13}s:Home sweet home!{13}t1:You need Credits to buy Furni for your room, click the Purse at the bottom of your screen for more information about Credits.{13}{1}
+2021-12-04T22:28:34.512 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 6,7,0.0,3,3/flatctrl useradmin/{13}{1}
+2021-12-04T22:28:41.384 - [Player Vulturnus] - Received (GCAP): 102 / Afproduction/Dance Trax/en 
+2021-12-04T22:28:41.387 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 127 / Ai:Dance Trax{13}n:Dance Trax{13}l:ctlg_soundmachine{13}g:catalog_trx_header2{13}e:catalog_trx_teaser2{13}h:Welcome to the Dance Trax Store! With funky beats and catchy melodies, this is the section for every clubber  to indulge in.{13}p:Soundmachine starterset{9}Gray soundmachine with Duck Funk sampleset{9}10{9}{9}d{9}{9}{9}{9}sound_machine_deal{9}{9}2{9}sound_machine{9}1{9}#FFFFFF,#FFFFFF,#828282,#FFFFFF{9}sound_set_1{9}1{9}0,0,0{9}{13}p:Jukebox{9}For your Happy Days!{9}3{9}{9}s{9}jukebox*1{9}0{9}1,1{9}jukebox*1{9}#FFFFFF,#FFFFFF{9}{13}p:Dance 4{9}Music you can really sink your teeth into{9}3{9}{9}s{9}sound_set_11{9}0{9}1,1{9}sound_set_11{9}0,0,0{9}{13}p:Dance 5{9}Let Music be the food of Habbo{9}3{9}{9}s{9}sound_set_13{9}0{9}1,1{9}sound_set_13{9}0,0,0{9}{13}p:Dance 1{9}Actually, it's Partay!{9}3{9}{9}s{9}sound_set_25{9}0{9}1,1{9}sound_set_25{9}0,0,0{9}{13}p:Dance 2{9}Electronic house{9}3{9}{9}s{9}sound_set_29{9}0{9}1,1{9}sound_set_29{9}0,0,0{9}{13}p:Dance 3{9}House loops{9}3{9}{9}s{9}sound_set_31{9}0{9}1,1{9}sound_set_31{9}0,0,0{9}{13}p:Club 1{9}De bada bada bo!{9}3{9}{9}s{9}sound_set_46{9}0{9}1,1{9}sound_set_46{9}0,0,0{9}{13}p:Club 2{9}Storm the UKCharts!{9}3{9}{9}s{9}sound_set_47{9}0{9}1,1{9}sound_set_47{9}0,0,0{9}{13}p:Club 3{9}Sweet party beat{9}3{9}{9}s{9}sound_set_48{9}0{9}1,1{9}sound_set_48{9}0,0,0{9}{13}p:Club 4{9}You will belong{9}3{9}{9}s{9}sound_set_49{9}0{9}1,1{9}sound_set_49{9}0,0,0{9}{13}p:Club 5{9}The harder generation{9}3{9}{9}s{9}sound_set_50{9}0{9}1,1{9}sound_set_50{9}0,0,0{9}{13}p:Club 6{9}Bop to the beat{9}3{9}{9}s{9}sound_set_51{9}0{9}1,1{9}sound_set_51{9}0,0,0{9}{13}p:Club 7{9}State of Trancehouse{9}3{9}{9}s{9}sound_set_52{9}0{9}1,1{9}sound_set_52{9}0,0,0{9}{13}{1}
+2021-12-04T22:28:41.518 - [Player Vulturnus] - Received (GET_ALIAS_LIST): 215 / CW 
+2021-12-04T22:28:41.518 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 295 / DgH{1}
+2021-12-04T22:28:41.519 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 297 / DiH{1}
+2021-12-04T22:28:47.685 - [Player Vulturnus] - Received (GRPC): 100 / Adproduction{13}Dance Trax{13}en{13}jukebox*1{13}-{13}0{13}{13}{13} 
+2021-12-04T22:28:47.692 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 140 / BLSI240S24jukebox*111#FFFFFF,#FFFFFF1jukebox*1/{13}1{1}
+2021-12-04T22:28:47.692 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 67 / AC{1}
+2021-12-04T22:28:47.697 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 6 / @F197.0{2}{1}
+2021-12-04T22:28:47.799 - [Player Vulturnus] - Received (GETSTRIP): 65 / AAnew 
+2021-12-04T22:28:47.799 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 140 / BLSI240S24jukebox*111#FFFFFF,#FFFFFF1jukebox*1/{13}1{1}
+2021-12-04T22:28:54.234 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T22:28:54.359 - [Player Vulturnus] - Received (PONG): 196 / CD 
+2021-12-04T22:29:00.292 - [Player Vulturnus] - Received (WALK): 75 / AK@H@H 
+2021-12-04T22:29:00.517 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 6,7,0.0,2,2/flatctrl useradmin/mv 7,7,0.0/{13}{1}
+2021-12-04T22:29:01.013 - [Player Vulturnus] - Received (WALK): 75 / AK@I@I 
+2021-12-04T22:29:01.017 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 7,7,0.0,3,3/flatctrl useradmin/mv 8,8,0.0/{13}{1}
+2021-12-04T22:29:01.515 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 8,8,0.0,3,3/flatctrl useradmin/mv 9,9,0.0/{13}{1}
+2021-12-04T22:29:02.015 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 9,9,0.0,3,3/flatctrl useradmin/{13}{1}
+2021-12-04T22:29:29.441 - [Player Vulturnus] - Received (FRIENDLIST_UPDATE): 15 / @O 
+2021-12-04T22:29:29.441 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 13 / @MH{1}
+2021-12-04T22:29:54.239 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T22:29:54.255 - [Player Vulturnus] - Received (PONG): 196 / CD 
+2021-12-04T22:30:29.442 - [Player Vulturnus] - Received (FRIENDLIST_UPDATE): 15 / @O 
+2021-12-04T22:30:29.442 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 13 / @MH{1}
+2021-12-04T22:30:54.240 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T22:30:54.349 - [Player Vulturnus] - Received (PONG): 196 / CD 
+2021-12-04T22:31:29.446 - [Player Vulturnus] - Received (FRIENDLIST_UPDATE): 15 / @O 
+2021-12-04T22:31:29.446 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 13 / @MH{1}
+2021-12-04T22:31:54.252 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T22:31:54.283 - [Player Vulturnus] - Received (PONG): 196 / CD 
+2021-12-04T22:32:29.453 - [Player Vulturnus] - Received (FRIENDLIST_UPDATE): 15 / @O 
+2021-12-04T22:32:29.453 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 13 / @MH{1}
+2021-12-04T22:32:54.255 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T22:32:54.366 - [Player Vulturnus] - Received (PONG): 196 / CD 
+2021-12-04T22:33:29.461 - [Player Vulturnus] - Received (FRIENDLIST_UPDATE): 15 / @O 
+2021-12-04T22:33:29.461 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 13 / @MH{1}
+2021-12-04T22:33:54.261 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T22:33:54.292 - [Player Vulturnus] - Received (PONG): 196 / CD 
+2021-12-04T22:34:03.013 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 9,9,0.0,3,3/Sleep/flatctrl useradmin/{13}{1}
+2021-12-04T22:34:29.463 - [Player Vulturnus] - Received (FRIENDLIST_UPDATE): 15 / @O 
+2021-12-04T22:34:29.463 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 13 / @MH{1}
+2021-12-04T22:34:54.274 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T22:34:54.413 - [Player Vulturnus] - Received (PONG): 196 / CD 
+2021-12-04T22:35:29.463 - [Player Vulturnus] - Received (FRIENDLIST_UPDATE): 15 / @O 
+2021-12-04T22:35:29.463 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 13 / @MH{1}
+2021-12-04T22:35:54.284 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T22:35:54.378 - [Player Vulturnus] - Received (PONG): 196 / CD 
+2021-12-04T22:36:29.462 - [Player Vulturnus] - Received (FRIENDLIST_UPDATE): 15 / @O 
+2021-12-04T22:36:29.462 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 13 / @MH{1}
+2021-12-04T22:36:54.290 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T22:36:54.336 - [Player Vulturnus] - Received (PONG): 196 / CD 
+2021-12-04T22:37:29.465 - [Player Vulturnus] - Received (FRIENDLIST_UPDATE): 15 / @O 
+2021-12-04T22:37:29.465 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 13 / @MH{1}
+2021-12-04T22:37:54.296 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T22:37:54.353 - [Player Vulturnus] - Received (PONG): 196 / CD 
+2021-12-04T22:38:29.478 - [Player Vulturnus] - Received (FRIENDLIST_UPDATE): 15 / @O 
+2021-12-04T22:38:29.478 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 13 / @MH{1}
+2021-12-04T22:38:54.296 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T22:38:54.437 - [Player Vulturnus] - Received (PONG): 196 / CD 
+2021-12-04T22:39:29.480 - [Player Vulturnus] - Received (FRIENDLIST_UPDATE): 15 / @O 
+2021-12-04T22:39:29.480 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 13 / @MH{1}
+2021-12-04T22:39:54.303 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T22:39:54.459 - [Player Vulturnus] - Received (PONG): 196 / CD 
+2021-12-04T22:40:29.479 - [Player Vulturnus] - Received (FRIENDLIST_UPDATE): 15 / @O 
+2021-12-04T22:40:29.479 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 13 / @MH{1}
+2021-12-04T22:40:48.669 - [Player Vulturnus] - Received (WALK): 75 / AK@J@G 
+2021-12-04T22:40:49.012 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 9,9,0.0,0,0/flatctrl useradmin/mv 9,8,0.0/{13}{1}
+2021-12-04T22:40:49.514 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 9,8,0.0,1,1/flatctrl useradmin/mv 10,7,0.0/{13}{1}
+2021-12-04T22:40:49.702 - [Player Vulturnus] - Received (WALK): 75 / AK@J@I 
+2021-12-04T22:40:50.016 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 10,7,0.0,4,4/flatctrl useradmin/mv 10,8,0.0/{13}{1}
+2021-12-04T22:40:50.518 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 10,8,0.0,4,4/flatctrl useradmin/mv 10,9,0.0/{13}{1}
+2021-12-04T22:40:51.020 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 10,9,0.0,4,4/flatctrl useradmin/{13}{1}
+2021-12-04T22:40:54.316 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T22:40:54.422 - [Player Vulturnus] - Received (PONG): 196 / CD 
+2021-12-04T22:41:29.484 - [Player Vulturnus] - Received (FRIENDLIST_UPDATE): 15 / @O 
+2021-12-04T23:28:03.548 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 0 / @@{1}
+2021-12-04T23:26:12.434 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 0 / @@{1}
+2021-12-04T23:28:12.781 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 13 / @MH{1}
+2021-12-04T23:28:12.782 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [2] Connection from 192.168.0.20 
+2021-12-04T23:28:12.782 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [1] Connection from 192.168.0.36 
+2021-12-04T23:28:12.782 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T23:28:12.782 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 6 / @F217.0{2}{1}
+2021-12-04T23:28:12.783 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 10,9,0.0,4,4/Sleep/flatctrl useradmin/{13}{1}
+2021-12-04T23:28:12.785 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 10,9,0.0,6,6/flatctrl useradmin/mv 9,9,0.0/{13}{1}
+2021-12-04T23:28:12.786 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 9,9,0.0,6,6/flatctrl useradmin/mv 8,9,0.0/{13}{1}
+2021-12-04T23:28:12.788 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 8,9,0.0,6,6/flatctrl useradmin/mv 7,9,0.0/{13}{1}
+2021-12-04T23:28:12.790 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 7,9,0.0,6,6/flatctrl useradmin/mv 6,9,0.0/{13}{1}
+2021-12-04T23:28:12.792 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 6,9,0.0,6,6/flatctrl useradmin/mv 5,9,0.0/{13}{1}
+2021-12-04T23:28:12.793 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 5,9,0.0,6,6/flatctrl useradmin/mv 4,9,0.0/{13}{1}
+2021-12-04T23:28:12.794 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 4,9,0.0,7,7/flatctrl useradmin/mv 3,8,0.0/{13}{1}
+2021-12-04T23:28:12.795 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 3,8,0.0,7,7/flatctrl useradmin/mv 2,7,0.0/{13}{1}
+2021-12-04T23:28:12.796 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 2,7,0.0,7,7/flatctrl useradmin/mv 1,6,0.0/{13}{1}
+2021-12-04T23:28:12.796 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 34 / @b40915 1,6,0.0,7,7/flatctrl useradmin/mv 0,5,0.0/{13}{1}
+2021-12-04T23:28:12.797 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 18 / @R{1}
+2021-12-04T23:28:12.806 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 192.168.0.20 
+2021-12-04T23:28:12.824 - [Connection 1] - Received (INIT_CRYPTO): 206 / CN 
+2021-12-04T23:28:12.824 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 277 / DUH{1}
+2021-12-04T23:28:12.824 - [Connection 1] - Received (PONG): 196 / CD 
+2021-12-04T23:28:12.894 - [Connection 2] - Received (INIT_CRYPTO): 206 / CN 
+2021-12-04T23:28:12.894 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 277 / DUH{1}
+2021-12-04T23:28:12.979 - [Connection 1] - Received (GENERATEKEY): 202 / CJ 
+2021-12-04T23:28:12.979 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 257 / DAQBSAIJHPAHIIKHQBIPB{2}QAdd-MM-yyyy{2}RAH{1}
+2021-12-04T23:28:12.980 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 8 / @H[100,105,110,115,120,125,130,135,140,145,150,155,160,165,170,175,176,177,178,180,185,190,195,200,205,206,207,210,215,220,225,230,235,240,245,250,255,260,265,266,267,270,275,280,281,285,290,295,300,305,500,505,510,515,520,525,530,535,540,545,550,555,565,570,575,580,585,590,595,596,600,605,610,615,620,625,626,627,630,635,640,645,650,655,660,665,667,669,670,675,680,685,690,695,696,700,705,710,715,720,725,730,735,740]{1}
+2021-12-04T23:28:13.044 - [Connection 2] - Received (GENERATEKEY): 202 / CJ 
+2021-12-04T23:28:13.044 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 257 / DAQBSAIJHPAHIIKHQBIPB{2}QAdd-MM-yyyy{2}RAH{1}
+2021-12-04T23:28:13.045 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 8 / @H[100,105,110,115,120,125,130,135,140,145,150,155,160,165,170,175,176,177,178,180,185,190,195,200,205,206,207,210,215,220,225,230,235,240,245,250,255,260,265,266,267,270,275,280,281,285,290,295,300,305,500,505,510,515,520,525,530,535,540,545,550,555,565,570,575,580,585,590,595,596,600,605,610,615,620,625,626,627,630,635,640,645,650,655,660,665,667,669,670,675,680,685,690,695,696,700,705,710,715,720,725,730,735,740]{1}
+2021-12-04T23:28:13.139 - [Connection 1] - Received (GDATE): 49 / @q 
+2021-12-04T23:28:13.139 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 163 / Bc04.12.2021{1}
+2021-12-04T23:28:13.199 - [Connection 2] - Received (TRY_LOGIN): 4 / @D@IVulturnus@Hbola1551 
+2021-12-04T23:28:13.278 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 3 / @C{1}
+2021-12-04T23:28:13.279 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 2 / @Bfuse_login{2}fuse_trade{2}fuse_buy_credits{2}fuse_buy_credits_fuse_login{2}fuse_room_queue_default{2}{1}
+2021-12-04T23:28:13.280 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 229 / CeHHI{1}
+2021-12-04T23:28:13.359 - [Player Vulturnus] - Received (GET_INFO): 7 / @G 
+2021-12-04T23:28:13.359 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 5 / @E3{2}Vulturnus{2}1150118001270012900121001{2}M{2}de kepler whey{2}H{2}H{1}
+2021-12-04T23:28:13.360 - [Player Vulturnus] - Received (GET_CREDITS): 8 / @H 
+2021-12-04T23:28:13.360 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 6 / @F217.0{2}{1}
+2021-12-04T23:28:13.361 - [Player Vulturnus] - Received (GETAVAILABLEBADGES): 157 / B] 
+2021-12-04T23:28:13.361 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 229 / CeHHI{1}
+2021-12-04T23:28:13.361 - [Player Vulturnus] - Received (GET_SOUND_SETTING): 228 / Cd 
+2021-12-04T23:28:13.361 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 308 / DtIH{1}
+2021-12-04T23:28:13.362 - [Player Vulturnus] - Received (GET_FURNI_RECYCLER_CONFIGURATION): 222 / C^ 
+2021-12-04T23:28:13.366 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 303 / DoI`phBHHRAPEHrclr_chair{2}HII0,0,0{2}PEHrclr_chair{2}HII0,0,0{2}RGHrclr_garden{2}HIK0,0,0{2}RGHrclr_garden{2}HIK0,0,0{2}RLHrclr_sofa{2}HJI0,0,0{2}RLHrclr_sofa{2}HJI0,0,0{2}{1}
+2021-12-04T23:28:13.366 - [Player Vulturnus] - Received (GET_FURNI_RECYCLER_STATUS): 223 / C_ 
+2021-12-04T23:28:13.367 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 304 / DpH{1}
+2021-12-04T23:28:13.367 - [Player Vulturnus] - Received (MESSENGERINIT): 12 / @L 
+2021-12-04T23:28:13.368 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 12 / @LI'm a new user!{2}PYPYXVBH{1}
+2021-12-04T23:28:13.368 - [Player Vulturnus] - Received (GET_CLUB): 26 / @Z@Jclub_habbo 
+2021-12-04T23:28:13.368 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 229 / CeHHI{1}
+2021-12-04T23:28:13.368 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 7 / @Gclub_habbo{2}HHHI{1}
+2021-12-04T23:28:13.521 - [Player Vulturnus] - Received (NAVIGATE): 150 / BVHKI 
+2021-12-04T23:28:13.568 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 220 / C\HKHPublic Rooms{2}HHHYzCIWelcome Lounge{2}HPJKwelcome_lounge{2}IHhh_room_nlobby{2}HIZzCITheatredome{2}HPYKtheatredrome{2}JHhh_room_theater{2}HI[zCILibrary{2}HRGKlibrary{2}KHhh_room_library{2}HIQAHEntertainment{2}HHKRAHRestaurants and Cafes{2}HHKSAHLounges and Clubs{2}HHKPBHClub-only Spaces{2}HHKQBHParks and Gardens{2}HHKRBHSwimming Pools{2}HHKSBHThe Lobbies{2}HHKPCHThe Hallways{2}HHKQCHGames{2}HHK{1}
+2021-12-04T23:28:13.569 - [Player Vulturnus] - Received (NAVIGATE): 150 / BVHPAI 
+2021-12-04T23:28:13.570 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 220 / C\HPAJGuest Rooms{2}HHHHP\HRestaurant, Bar & Night Club Rooms{2}HHPAQ\HTrade floor{2}HHPAR\HChill, Chat & Discussion Rooms{2}HHPAS\HHair Salons & Modelling Rooms{2}HHPAP]HMaze & Theme Park Rooms{2}HHPAQ]HGaming & Race Rooms{2}HHPAR]HHelp Centre Rooms{2}HHPAP^HMiscellaneous{2}HHPA{1}
+2021-12-04T23:28:15.521 - [Player Vulturnus] - Received (GETUSERFLATCATS): 151 / BW 
+2021-12-04T23:28:15.521 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 221 / C]RBJNo category{2}PAGuest Rooms{2}P\Restaurant, Bar & Night Club Rooms{2}Q\Trade floor{2}R\Chill, Chat & Discussion Rooms{2}S\Hair Salons & Modelling Rooms{2}P]Maze & Theme Park Rooms{2}Q]Gaming & Race Rooms{2}R]Help Centre Rooms{2}P^Miscellaneous{2}{1}
+2021-12-04T23:29:03.543 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T23:29:12.792 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 50 / @r{1}
+2021-12-04T23:29:56.784 - [Player Vulturnus] - Received (FRIENDLIST_UPDATE): 15 / @O 
+2021-12-04T23:29:56.785 - [Connection 1] - Received (APPROVENAME): 42 / @j@HUniversoH 
+2021-12-04T23:29:56.785 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 13 / @MH{1}
+2021-12-04T23:29:56.785 - [Player Vulturnus] - Received (NAVIGATE): 150 / BVHPAI 
+2021-12-04T23:29:56.786 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 36 / @dH{1}
+2021-12-04T23:29:56.786 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 220 / C\HPAJGuest Rooms{2}HHHHP\HRestaurant, Bar & Night Club Rooms{2}HHPAQ\HTrade floor{2}HHPAR\HChill, Chat & Discussion Rooms{2}HHPAS\HHair Salons & Modelling Rooms{2}HHPAP]HMaze & Theme Park Rooms{2}HHPAQ]HGaming & Race Rooms{2}HHPAR]HHelp Centre Rooms{2}HHPAP^HMiscellaneous{2}HHPA{1}
+2021-12-04T23:29:56.794 - [Connection 1] - Received (PONG): 196 / CD 
+2021-12-04T23:29:56.892 - [Player Vulturnus] - Received (PONG): 196 / CD 
+2021-12-04T23:29:57.582 - [org.alexdev.kepler.Kepler] - Shutting down server!
+2021-12-04T23:29:57.587 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 292 / DdSEQGH{1}
+2021-12-04T23:29:57.587 - [org.alexdev.kepler.server.netty.codec.NetworkEncoder] - SENT: 287 / D_M{1}
+2021-12-04T23:29:57.592 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [2] Disconnection from 192.168.0.20 
+2021-12-04T23:29:57.595 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [1] Disconnection from 192.168.0.36 
+2021-12-04T23:30:15.329 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T23:30:15.330 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T23:30:15.348 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T23:30:15.409 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T23:30:15.409 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T23:30:15.409 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T23:30:15.602 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T23:30:16.088 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 192.168.0.20:12322
+2021-12-04T23:30:16.101 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 192.168.0.20:12309
+2021-12-04T23:30:16.115 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on 192.168.0.20:12321
+2021-12-04T23:30:37.235 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-04T23:30:37.236 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-04T23:30:37.254 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-04T23:30:37.313 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-04T23:30:37.314 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-04T23:30:37.314 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-04T23:30:37.488 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-04T23:30:37.973 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on 192.168.0.20:12322
+2021-12-04T23:30:37.986 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on 192.168.0.20:12309
+2021-12-04T23:30:38.000 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on 192.168.0.20:12321
+2021-12-04T23:30:43.243 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Connection from 192.168.0.36 
+2021-12-04T23:32:16.712 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [1] Connection from 192.168.0.20 
+2021-12-04T23:32:18.616 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [1] Disconnection from 192.168.0.20 
+2021-12-04T23:32:26.606 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [1] Connection from 192.168.0.20 
+2021-12-05T00:00:25.150 - [org.alexdev.kepler.server.netty.connections.ConnectionHandler] - [0] Disconnection from 192.168.0.36 
+2021-12-05T00:02:41.650 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-05T00:02:41.651 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-05T00:02:41.668 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-05T00:02:41.766 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-05T00:02:41.766 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-05T00:02:41.766 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-05T00:02:41.958 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
