@@ -1,3 +1,7 @@
+<?php 
+$config = parse_ini_file("..\server.ini", true, INI_SCANNER_RAW);
+
+?>
 <html xmlns='http://www.w3.org/1999/xhtml'>
 <head>
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
@@ -7,7 +11,7 @@
 <body bgcolor='black'<!-- leftmargin='0' topmargin='0' marginwidth='0' marginheight='0'-->>
 <div align='center'>
 <object classid='clsid:166B1BCA-3F9C-11CF-8075-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/director/sw.cab#version=10,8,5,1,0' id='habbo' width='720' height='540'>
-<param name='src' value='localhost/v14/habbo.dcr'>
+<param name='src' value='<?php echo $config['Global']['bind']; ?>/v14/habbo.dcr'>
 <param name='swRemote' value='swSaveEnabled='true' swVolume='true' swRestart='false' swPausePlay='false' swFastForward='false' swTitle='Habbo Hotel' swContextMenu='true' '>
 <param name='swStretchStyle' value='none'>
 <param name='swText' value=''>
@@ -16,20 +20,20 @@
 <?php if (isset($_GET['sso'])) { ?>
 <param name='sw6' value='use.sso.ticket=1;sso.ticket=<?php echo $_GET['sso']; ?>'>
 <?php } ?>
-<param name='sw2' value='connection.info.host=codehotel.ddns.net;connection.info.port=12321'>
-<param name='sw4' value='connection.mus.host=codehotel.ddns.net;connection.mus.port=12322'>
-<param name='sw3' value='client.reload.url=localhost/v14'>
+<param name='sw2' value='connection.info.host=<?php echo $config['Global']['bind']; ?>;connection.info.port=12321'>
+<param name='sw4' value='connection.mus.host=<?php echo $config['Global']['bind']; ?>;connection.mus.port=12322'>
+<param name='sw3' value='client.reload.url=<?php echo $config['Global']['bind']; ?>/v14'>
 <param name='sw1' value='site.url=http://www.habbo.ch;url.prefix=http://www.habbo.ch'>
-<param name='sw5' value='external.variables.txt=localhost/v14/external_vars.txt;external.texts.txt=localhost/v14/external_texts.txt'>
-<embed src='localhost/v14/habbo.dcr' bgColor='#000000' width='720' height='540' swRemote='swSaveEnabled='true' swVolume='true' swRestart='false' swPausePlay='false' swFastForward='false' swTitle='Habbo Hotel' swContextMenu='true'' swStretchStyle='none' swText='' type='application/x-director' pluginspage='http://www.macromedia.com/shockwave/download/'
+<param name='sw5' value='external.variables.txt=<?php echo $config['Global']['bind']; ?>/v14/external_vars.txt;external.texts.txt=<?php echo $config['Global']['bind']; ?>/v14/external_texts.txt'>
+<embed src='<?php echo $config['Global']['bind']; ?>/v14/habbo.dcr' bgColor='#000000' width='720' height='540' swRemote='swSaveEnabled='true' swVolume='true' swRestart='false' swPausePlay='false' swFastForward='false' swTitle='Habbo Hotel' swContextMenu='true'' swStretchStyle='none' swText='' type='application/x-director' pluginspage='http://www.macromedia.com/shockwave/download/'
 <?php if (isset($_GET['sso'])) { ?>
 sw6='use.sso.ticket=1;sso.ticket=<?php echo $_GET['sso']; ?>'
 <?php } ?>
-sw2='connection.info.host=codehotel.ddns.net;connection.info.port=12321'
-sw4='connection.mus.host=codehotel.ddns.net;connection.mus.port=12322'
-sw3='client.reload.url=localhost/v14'
+sw2='connection.info.host=<?php echo $config['Global']['bind']; ?>;connection.info.port=12321'
+sw4='connection.mus.host=<?php echo $config['Global']['bind']; ?>;connection.mus.port=12322'
+sw3='client.reload.url=<?php echo $config['Global']['bind']; ?>/v14'
 sw1='site.url=http://www.habbo.ch;url.prefix=http://www.habbo.co.uk'
-sw5='external.variables.txt=localhost/v14/external_vars.txt;external.texts.txt=localhost/v14/external_texts.txt'></embed>
+sw5='external.variables.txt=<?php echo $config['Global']['bind']; ?>/v14/external_vars.txt;external.texts.txt=<?php echo $config['Global']['bind']; ?>/v14/external_texts.txt'></embed>
 </object>
 </div>
 </body>

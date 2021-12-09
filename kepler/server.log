@@ -1116,3 +1116,79 @@
 2021-12-05T00:02:41.766 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
 2021-12-05T00:02:41.766 - [org.alexdev.kepler.Kepler] - Setting up game
 2021-12-05T00:02:41.958 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-08T22:28:09.369 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-08T22:28:09.369 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-08T22:28:09.385 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-08T22:28:11.480 - [com.zaxxer.hikari.pool.HikariPool] - processing - Exception during pool initialization.
+java.sql.SQLNonTransientConnectionException: Could not connect to address=(host=localhost)(port=3306)(type=master) : Connection refused: connect
+	at org.mariadb.jdbc.internal.util.exceptions.ExceptionMapper.get(ExceptionMapper.java:234)
+	at org.mariadb.jdbc.internal.util.exceptions.ExceptionMapper.connException(ExceptionMapper.java:95)
+	at org.mariadb.jdbc.internal.protocol.AbstractConnectProtocol.connectWithoutProxy(AbstractConnectProtocol.java:1203)
+	at org.mariadb.jdbc.internal.util.Utils.retrieveProxy(Utils.java:560)
+	at org.mariadb.jdbc.MariaDbConnection.newConnection(MariaDbConnection.java:174)
+	at org.mariadb.jdbc.Driver.connect(Driver.java:92)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:353)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:201)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:473)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:562)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.<init>(HikariDataSource.java:81)
+	at org.alexdev.kepler.dao.Storage.<init>(Storage.java:51)
+	at org.alexdev.kepler.dao.Storage.connect(Storage.java:71)
+	at org.alexdev.kepler.Kepler.main(Kepler.java:86)
+Caused by: java.net.ConnectException: Connection refused: connect
+	at java.base/java.net.PlainSocketImpl.waitForConnect(Native Method)
+	at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:107)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403)
+	at java.base/java.net.Socket.connect(Socket.java:591)
+	at org.mariadb.jdbc.internal.protocol.AbstractConnectProtocol.connect(AbstractConnectProtocol.java:501)
+	at org.mariadb.jdbc.internal.protocol.AbstractConnectProtocol.connectWithoutProxy(AbstractConnectProtocol.java:1195)
+	... 13 more
+2021-12-08T22:28:11.480 - [org.alexdev.kepler.dao.Storage] - Could not connect
+2021-12-08T22:30:50.926 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-08T22:30:50.927 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-08T22:30:50.945 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-08T22:30:51.041 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-08T22:30:51.041 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-08T22:30:51.041 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-08T22:30:51.207 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-08T22:30:51.251 - [org.alexdev.kepler.game.recycler.RecyclerManager] - Recycler is disabled
+2021-12-08T22:30:51.698 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on localhost:12322
+2021-12-08T22:30:51.711 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on localhost:12309
+2021-12-08T22:30:51.725 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on localhost:12321
+2021-12-08T22:34:48.234 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-08T22:34:48.234 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-08T22:34:48.250 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-08T22:34:48.312 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-08T22:34:48.312 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-08T22:34:48.312 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-08T22:34:48.468 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-08T22:34:48.515 - [org.alexdev.kepler.game.recycler.RecyclerManager] - Recycler is disabled
+2021-12-08T22:34:48.953 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on localhost:12322
+2021-12-08T22:34:48.968 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on localhost:12309
+2021-12-08T22:34:48.984 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on localhost:12321
+2021-12-08T22:36:10.056 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-08T22:36:10.056 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-08T22:36:10.087 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-08T22:36:10.149 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-08T22:36:10.149 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-08T22:36:10.149 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-08T22:36:10.306 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-08T22:36:10.337 - [org.alexdev.kepler.game.recycler.RecyclerManager] - Recycler is disabled
+2021-12-08T22:36:10.790 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on localhost:12322
+2021-12-08T22:36:10.806 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on localhost:12309
+2021-12-08T22:36:10.821 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on localhost:12321
+2021-12-08T22:36:31.401 - [org.alexdev.kepler.Kepler] - Kepler - Habbo Hotel Emulation (max version supported: v26)
+2021-12-08T22:36:31.401 - [org.alexdev.kepler.dao.Storage] - Connecting to MySQL server
+2021-12-08T22:36:31.416 - [com.zaxxer.hikari.HikariDataSource] - processing - Starting...
+2021-12-08T22:36:31.479 - [com.zaxxer.hikari.HikariDataSource] - processing - Start completed.
+2021-12-08T22:36:31.479 - [org.alexdev.kepler.dao.Storage] - Connection to MySQL was a success
+2021-12-08T22:36:31.479 - [org.alexdev.kepler.Kepler] - Setting up game
+2021-12-08T22:36:31.635 - [org.alexdev.kepler.game.commands.CommandManager] - Loaded 26 commands
+2021-12-08T22:36:32.120 - [org.alexdev.kepler.server.mus.MusServer] - Multi User Server (MUS) is listening on localhost:12322
+2021-12-08T22:36:32.135 - [org.alexdev.kepler.server.rcon.RconServer] - RCON (remote connection) is listening on localhost:12309
+2021-12-08T22:36:32.151 - [org.alexdev.kepler.server.netty.NettyServer] - Game server for v14 is listening on localhost:12321
